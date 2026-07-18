@@ -13,6 +13,10 @@ mezclar reglas.
 
 ## Estado actual
 
+> **Esta tabla es la fuente canónica de cobertura por régimen.** `README.md` y la sección "Conocimiento por
+> régimen" del `SKILL.md` la **espejean** — al cambiarla, actualízalos (el manifest `plugin.json` ya no
+> enumera regímenes, apunta aquí, para no derivar).
+
 | Régimen | Carpeta | Estado |
 |---|---|---|
 | RESICO Persona Moral | `resico-pm/` | ✅ **Completo** — corpus calibrado + `modulo.md` + `trampas.md` |
@@ -30,4 +34,5 @@ mezclar reglas.
    necesita, y checklist de cierre.
 4. `trampas.md`: arranca vacío. Cada trampa que verifiques contra fuente primaria se agrega aquí — **solo con
    cita de artículo + texto + fecha de reforma**. Nunca una trampa "de oídas".
-5. Actualiza la tabla de arriba y la sección "Conocimiento por régimen" del `SKILL.md`.
+5. Actualiza la tabla de arriba (**canónica**) y sus espejos: la tabla de cobertura de `README.md` y la
+   sección "Conocimiento por régimen" del `SKILL.md`.
