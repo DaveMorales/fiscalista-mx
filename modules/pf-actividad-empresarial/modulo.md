@@ -36,7 +36,7 @@ efectivamente percibidos"* (✅ igual que RESICO PM en ISR; ojo con el prellenad
 | art. 106 | **art. 96** (tarifa) · art. 123 Constitución (PTU) | pago provisional mensual |
 | art. 107 | art. 152 | esporádicos → anual |
 | art. 109 | **art. 152** (anual) · art. 28 fr. XXX (PTU) | impuesto del ejercicio · pérdidas · PTU |
-| art. 110 fr. II | CFF + su Reglamento | **contabilidad electrónica** |
+| art. 110 fr. II | CFF + su Reglamento | **llevar contabilidad** (texto literal: *"de conformidad con el CFF y su Reglamento"*; que sea *electrónica* lo impone el CFF 28 fr. III-IV, no el 110) |
 
 ⚠️ Igual que en RESICO PM: el escudo de ámbito es contra la LISR, **no contra el CFF**. Las obligaciones
 formales (CFDI 29-A, contabilidad, DIOT) aplican salvo relevo expreso — y aquí **no hay relevo de DIOT**.

@@ -54,7 +54,8 @@ La forma corporativa es independiente del régimen fiscal, pero si el RESICO PM 
 2. Descargar del Portal del SAT los CFDI **emitidos y recibidos** del mes → carpeta de contabilidad del mes.
 3. Verificar **REP** de todo CFDI **PPD** (sin complemento de pago no hay acreditamiento).
 4. Parsear XMLs y **recalcular** aritmética (nunca confiar en el PDF).
-5. Clasificar: gasto · **inversión** (art. 209: 50% cómputo, 25% mobiliario) · no deducible.
+5. Clasificar: gasto · **inversión** (art. 209: 50% cómputo, 25% mobiliario — **solo si el total invertido en
+   el ejercicio ≤ 3M**; si excede, aplican los % ordinarios del art. 34 — ver trampa) · no deducible.
 6. Verificar el estándar del **art. 210 fr. II** (*"para la obtención de los ingresos"* — más estrecho que el
    art. 27 fr. I).
 7. Determinar si hay **cantidad a pagar o saldo a favor** (art. 31 CFF) — y si aplica **preoperativo**.
