@@ -22,11 +22,14 @@ frescura:
 ```
 
 Compara el `manifest.json` contra los índices oficiales (diputados, SAT, DOF) y te dice qué está desactualizado.
-Si algo cambió, actualízalo antes de razonar sobre él.
+**Lee el resumen (`✗ requieren acción` / `! ojo humano`), no solo el exit code**: sin `--strict`, un fallo de
+red sale en verde. Si algo cambió, refréscalo antes de razonar — el procedimiento está en
+[`RUNBOOK-corpus.md`](./RUNBOOK-corpus.md).
 
-> Nota técnica: el corpus embarcado vive en `${CLAUDE_PLUGIN_ROOT}/corpus/`, que se **reemplaza** cuando
-> actualizas el plugin. Si mantienes un corpus refrescado que quieras conservar entre updates, guárdalo bajo
-> `${CLAUDE_PLUGIN_DATA}/corpus/` y apunta ahí desde tu perfil.
+> Nota técnica: el corpus embarcado vive en `${CLAUDE_PLUGIN_ROOT}/corpus/`, que un update del plugin
+> **reemplaza**. Para conservar un corpus refrescado entre updates, guárdalo en `${CLAUDE_PLUGIN_DATA}/corpus/`
+> (o exporta `FISCALISTA_CORPUS=/ruta`): los scripts lo **detectan y prefieren** automáticamente sobre el
+> snapshot embarcado — sin configurar nada en el perfil.
 
 ## 3. Onboarding: dale tu CSF
 

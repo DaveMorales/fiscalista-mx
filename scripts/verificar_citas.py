@@ -42,9 +42,7 @@ import unicodedata
 from datetime import date
 from pathlib import Path
 
-RAIZ = Path(__file__).resolve().parent.parent
-CORPUS = RAIZ / "corpus"
-MANIFEST = CORPUS / "manifest.json"
+from _corpus import CORPUS, MANIFEST  # noqa: E402  (resuelve DATA/ROOT del corpus)
 
 C = {"ok": "\033[32m", "warn": "\033[33m", "err": "\033[31m", "dim": "\033[2m", "b": "\033[1m", "0": "\033[0m"}
 

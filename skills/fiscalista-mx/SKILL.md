@@ -24,18 +24,24 @@ resultado es de quien lo usa, no de este skill.**
 ## Paso 0 — Frescura (SIEMPRE, sin excepción)
 
 ```bash
-"${CLAUDE_PLUGIN_ROOT}"/scripts/check-fuentes.sh
+"${CLAUDE_PLUGIN_ROOT}"/scripts/check-fuentes.sh          # o --strict (ver abajo)
 ```
 
 Compara el `manifest.json` del corpus contra los índices oficiales (diputados, SAT, DOF). **Si algo está
-desactualizado, refresca antes de razonar.** La RMF cambia varias veces al año y sus reglas se renumeran
-cada ejercicio; en la sesión de origen se estuvo a **seis días** de trabajar sobre una RMF vencida.
+desactualizado, refresca antes de razonar** (procedimiento en `RUNBOOK-corpus.md` — hoy es asistido, no de
+un botón). La RMF cambia varias veces al año y sus reglas se renumeran cada ejercicio; en la sesión de
+origen se estuvo a **seis días** de trabajar sobre una RMF vencida.
 
-El corpus vive en `${CLAUDE_PLUGIN_ROOT}/corpus/` (leyes, reglamentos, RMF + anexos, DOF), en `.txt`
-grepeable. **Se usa con `grep`/`python`, no se carga en contexto.** Es un *cache* de fuentes primarias;
-el `manifest.json` (con URLs oficiales, fechas de reforma y hashes) es la fuente de verdad de qué versión
-se tiene. El corpus embarcado está calibrado para los regímenes cubiertos por los módulos existentes; un
-régimen nuevo puede requerir sumar fuentes al manifest.
+⚠️ **Lee el RESUMEN, no solo el exit code.** Sin `--strict`, un fallo de red (estado `RED` = no se pudo
+consultar la fuente) sale con **exit 0** — el gate pasaría en verde sin haber verificado nada. Fíjate en las
+líneas `✗ … requieren acción` y `! … necesitan ojo humano`; o corre con `--strict` para que RED/REVISAR
+también devuelvan exit≠0.
+
+El corpus se resuelve en este orden: `$FISCALISTA_CORPUS` → `${CLAUDE_PLUGIN_DATA}/corpus` (refrescado, que
+sobrevive updates) → `${CLAUDE_PLUGIN_ROOT}/corpus` (snapshot embarcado). Son `.txt` grepeables: **se usan
+con `grep`/`python`, no se cargan en contexto.** El `manifest.json` (URLs oficiales, fechas de reforma,
+hashes) es la fuente de verdad de qué versión se tiene. El corpus embarcado está calibrado para los
+regímenes de los módulos existentes; un régimen nuevo puede requerir sumar fuentes al manifest.
 
 ## Paso 1 — Onboarding: la CSF manda
 
