@@ -24,14 +24,13 @@ Uso:
     ./check-fuentes.sh                  # todo
     ./check-fuentes.sh lisr liva        # solo esos ids
     ./check-fuentes.sh --solo-integridad
+    ./check-fuentes.sh --strict         # RED/REVISAR también devuelven exit≠0 (gate duro)
 """
 import json, re, ssl, sys, hashlib, urllib.request
 from datetime import date, datetime
 from pathlib import Path
 
-RAIZ = Path(__file__).resolve().parent.parent
-CORPUS = RAIZ / "corpus"
-MANIFEST = CORPUS / "manifest.json"
+from _corpus import CORPUS, MANIFEST  # resuelve DATA/ROOT del corpus
 DIAS_REVISION_MANUAL = 180
 
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -202,6 +201,7 @@ def integridad(doc):
 def main():
     ids = [a for a in sys.argv[1:] if not a.startswith("--")]
     solo_int = "--solo-integridad" in sys.argv
+    strict = "--strict" in sys.argv  # RED/REVISAR/MANUAL-VIEJO también tumban el exit code
     todos = json.loads(MANIFEST.read_text(encoding="utf-8"))
     conocidos = {d["url_descarga"].rsplit("/", 1)[-1] for d in todos}
     docs = [d for d in todos if d["id"] in ids] if ids else todos
@@ -261,14 +261,19 @@ def main():
         print(f"{C['err']}{C['b']}  ✗ {len(graves)} requieren acción ANTES de razonar:{C['0']} "
               f"{', '.join(f['id'] for f in graves)}")
     if ojo:
-        print(f"{C['warn']}  ! {len(ojo)} necesitan ojo humano:{C['0']} {', '.join(f['id'] for f in ojo)}")
+        extra = f" {C['err']}(--strict: cuentan como fallo){C['0']}" if strict else ""
+        print(f"{C['warn']}  ! {len(ojo)} necesitan ojo humano:{C['0']} "
+              f"{', '.join(f['id'] for f in ojo)}{extra}")
+        if not strict:
+            print(f"{C['dim']}      (incluye RED = no se pudo consultar la fuente; el exit code NO lo "
+                  f"refleja sin --strict — lee este resumen, no solo el código.){C['0']}")
     if not graves and not ojo:
         print(f"{C['ok']}{C['b']}  ✓ Corpus íntegro y sin cambios detectados en las fuentes.{C['0']}")
     print(f"\n{C['dim']}  MANUAL = publicación única del DOF: el script NO puede saber si salió un decreto")
     print(f"           modificatorio. Es un hueco real, no un descuido. Revisar a mano cada "
           f"{DIAS_REVISION_MANUAL} días.")
     print(f"  Este script superficie evidencia; no decide.{C['0']}\n")
-    return 1 if graves else 0
+    return 1 if graves or (strict and ojo) else 0
 
 
 if __name__ == "__main__":
