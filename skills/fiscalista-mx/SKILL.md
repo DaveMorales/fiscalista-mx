@@ -106,8 +106,9 @@ donde `citas.json` es una lista de `{documento, articulo, texto (verbatim), fech
 distingue tres cosas y **no inventa veredicto**:
 - 🚩 **Rechazo duro** (exit ≠ 0): el texto citado **no existe** en esa ley → cita fabricada, alterada o ley
   equivocada. **Se regenera; no se presenta.** Es un error de compilación, no una sugerencia.
-- ⚠️ **Advertencia**: el texto existe pero no se pudo confirmar que caiga **bajo el artículo citado**, o la
-  fecha de reforma citada es imposible → lo revisa un humano.
+- ⚠️ **Advertencia**: el texto existe pero no se pudo confirmar que caiga **bajo el artículo citado**, la
+  cita es **demasiado corta** para un sello confiable, o la fecha de reforma citada es imposible → lo revisa
+  un humano.
 - ✅ **Verificada**: el texto está, dentro del artículo citado.
 
 Esto vuelve la disciplina de cita en un candado que ninguna coherencia narrativa puede sortear. Ver
