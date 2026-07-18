@@ -1,0 +1,16 @@
+{
+  "name": "fiscalista-mx-marketplace",
+  "description": "Herramientas de rigor fiscal mexicano sobre fuentes primarias para Claude Code.",
+  "owner": {
+    "name": "DaveMorales",
+    "url": "https://github.com/DaveMorales"
+  },
+  "plugins": [
+    {
+      "name": "fiscalista-mx",
+      "source": "./",
+      "description": "Protocolo de rigor fiscal mexicano sobre fuentes primarias, adaptado al contribuyente vía su CSF.",
+      "version": "0.3.0"
+    }
+  ]
+}

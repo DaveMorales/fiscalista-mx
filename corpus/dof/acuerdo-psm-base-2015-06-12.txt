@@ -1,0 +1,87 @@
+DOF - Diario Oficial de la Federación
+
+-->
+
+-->
+
+DOF: 12/06/2015
+
+ACUERDO mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación ACUERDO mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación. Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía. Con fundamento en los artículos 34 fracciones XXXI y XXXIII de la Ley Orgánica de la Administración Pública Federal; 50 Bis y 600 fracción I del Código de Comercio; 9, 99, 119, 132, 136 fracción III, 177, 186, 223, 228 Bis fracción V, 243, 247 fracción II y 251 de la Ley General de Sociedades Mercantiles, 212 de la Ley General de Títulos y Operaciones de Crédito y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+CONSIDERANDO
+
+Que el 13 de junio de 2014 fue publicado en el Diario Oficial de la Federación, el Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en relación con la Miscelánea en Materia Mercantil.
+Que derivado de dichas reformas la Secretaría de Economía debe establecer el sistema electrónico al que se refieren en los artículos 50 Bis y 600 fracción I del Código de Comercio; 9, 99, 119, 132, 136 fracción III, 177, 186, 223, 228 Bis fracción V, 243, 247 fracción II y 251 de la Ley General de Sociedades Mercantiles, 212 de la Ley General de Títulos y Operaciones de Crédito , así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+Que el sistema electrónico busca impulsar la competitividad y la productividad a nivel nacional, mediante la modernización, y simplificación administrativa de las disposiciones que rigen la actividad mercantil, especialmente a las micro, pequeñas y medianas empresas liberando recursos económicos que actualmente se destinan para este tipo de publicaciones y fomentando el cumplimiento de las mismas, y
+Que de conformidad con el artículo 34 fracción XXXI de la Ley Orgánica de la Administración Pública, la Secretaría de Economía deberá determinar y operar el sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles, por lo que se expide el siguiente:
+Acuerdo
+
+Primera.- El presente Acuerdo tiene por objeto establecer el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones que determinan las características y requisitos bajo los cuales operará, a efecto de que las sociedades mercantiles puedan realizar las publicaciones que establezcan las leyes mercantiles.
+Segunda.- Para efectos del presente Acuerdo se entenderá por:
+I. Autoridad Certificadora: Las dependencias y entidades de la Administración Pública Federal que conforme a las disposiciones jurídicas aplicables tengan esta calidad y que la Secretaría de Economía así lo reconozca a través del Sistema Electrónico de Publicaciones de Sociedades Mercantiles;
+II. Boleta: Documento con firma electrónica y sello digital de tiempo emitido por la Secretaría de Economía con una cadena única de datos, por medio de la cual se hace constar una operación en el sistema;
+III. Sistema Electrónico de Publicaciones de Sociedades Mercantiles (PSM) : Sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles;
+IV. Secretaría : Secretaría de Economía, y
+V. Usuario Autorizado : Persona autorizada por el representante legal de una persona moral, en términos de lo dispuesto en el tercer párrafo del artículo 19 de la Ley Federal de Procedimiento Administrativo, para realizar operaciones a través del PSM.
+Tercera.- El PSM se proporcionará en línea a través del programa informático diseñado para tal fin, el cual contará con la capacidad de recepción, almacenamiento y consulta de la información registrada en el mismo.
+Cuarta.- Las operaciones que se pueden realizar en el PSM son las siguientes:
+I. Consulta: Búsqueda de la información y descarga de las boletas;
+II. Publicación: Captura y envío de la información que debe difundirse conforme a las leyes mercantiles, y
+III. Rectificación: Corrección de un error en una publicación.
+Quinta.- Las siguientes personas podrán realizar operaciones de publicación y rectificación en el PSM, mediante el uso de su firma electrónica avanzada a través de certificados digitales vigentes que les hayan sido emitidos por una Autoridad Certificadora:
+I. Representante Legal de la persona moral;
+
+II. Usuario Autorizado de la persona moral, y
+III. Servidores Públicos de la Secretaría.
+Sexta.- La información generada, enviada, recibida, almacenada o archivada en el PSM, será considerada mensaje de datos en los términos del artículo 89 del Código de Comercio para todos los efectos jurídicos a que haya lugar.
+Séptima.- Los documentos y los mensajes de datos que cuenten con firma electrónica avanzada, producirán los mismos efectos que los presentados con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos, lo anterior en términos de lo dispuesto por el artículo 89, octavo párrafo del Código de Comercio.
+Octava.- Las personas señaladas en la disposición Quinta que realicen operaciones en el PSM, son responsables de la existencia y veracidad de la información que publican, por lo que responderán por los daños y perjuicios que se pudieran originar.
+Novena.- Las personas señaladas en la disposición Quinta para poder realizar operaciones en el PSM deberán autentificarse conforme lo establecido en las disposiciones Décima, Décima Primera y Décima Segunda.
+Décima.- La autentificación de las personas morales deberá realizarse conforme al siguiente procedimiento y de acuerdo con lo establecido en el manual del programa informático que la Secretaría ponga a disposición en el PSM:
+1. El Representante Legal deberá ingresar al PSM mediante su firma electrónica avanzada, proporcionar la información solicitada y aceptar los Términos y Condiciones.
+2. Una vez hecho lo anterior, el Representante Legal deberá dar de alta a la Sociedad en el PSM mediante la firma electrónica avanzada de ésta, ingresando la Denominación o Razón Social y el Registro Federal de Contribuyentes.
+Décima Primera.- El Representante Legal de la persona moral, mediante su firma electrónica avanzada, podrá dar de alta a Usuarios Autorizados para que realicen operaciones a nombre de ésta, para lo cual deberá ingresar los datos que le solicite el PSM correspondie ntes al Usuario autorizado, quie n una vez habilitado podrá ingresar al PSM y realizar operaciones con su firma electrónica avanzada.
+En todo momento, el Representante Legal de la persona moral, mediante su firma electrónica avanzada y a través del PSM, podrá cancelar la autorización otorgada conforme al párrafo anterior.
+Décima Segunda.- Las personas señaladas en la disposición Quinta fracción III, deberán solicitar su habilitación para ingresar al PSM a la Secretaría, enviando vía correo electrónico la Designación emitida por el Delegado Federal de la Secretaría, Nombramiento, Registro Federal de Contribuyentes y correo electrónico. La Secretaría, verificará la información proporcionada así como la documentación enviada, y de ser procedente, autorizará a los Servidores Públicos para realizar operaciones en el PSM.
+Décima Tercera.- Cualquier persona podrá consultar la información en el PSM y descargar las boletas de las publicaciones realizadas. La consulta podrá realizarse a través de los siguientes criterios de búsqueda:
+a) Tipo de Publicación;
+b) Fecha de la Publicación, y
+c) Consulta General.
+Décima Cuarta.- Las personas morales, a través de su Representante Legal o Usuario Autorizado, llevarán a cabo las operaciones señaladas en las fracciones II y III de la disposición Cuarta.
+Décima Quinta.- Para llevar a cabo publicaciones en el PSM, se deberá identificar la persona moral, el tipo y nombre de publicación, así como la fecha de la misma, y adjuntar el documento respectivo, con las siguientes características:
+a) Tipo PDF, y
+b) Tamaño máximo de 1 Megabyte.
+Décimo Sexta.- Las publicaciones que se podrán realizar en el PSM son las siguientes:
+I. Convocatoria de Asamblea General Constitutiva (Artículo 99 de la Ley General de Sociedades Mercantiles);
+II. Convocatoria para Asambleas Generales (Artículo 186 de la Ley General de Sociedades Mercantiles);
+III. Convocatoria de Asamblea de tenedores de certificados de participación (Artículo 228 s de la Ley General de Títulos y Operaciones de Crédito);
+IV. Convocatoria de Asamblea por orden de autoridad (Artículos 168, 184 y 185 de la Ley General de Sociedades Mercantiles);
+
+V. Acuerdo de Asamblea sobre aumento de capital social (Artículo 132 de la Ley General de Sociedades Mercantiles);
+VI. Balance General de la negociación de sociedades extranjeras (Artículo 251 de la Ley General de Sociedades Mercantiles);
+VII. Balance de las sociedades que emiten obligaciones (Artículo 212 de la Ley General de Títulos y Operaciones de Crédito);
+VIII. Estados financieros, notas y dictamen de los comisarios (Artículo 177 de la Ley General de Sociedades Mercantiles);
+IX. Reducción del capital social (Artículo 9 de la Ley General de Sociedades Mercantiles);
+X. Acuerdos sobre fusión, último balance de cada sociedad, sistema establecido para la extinción de su pasivo (Artículo 223 de la Ley General de Sociedades Mercantiles);
+XI. Resolución de escisión (Artículo 228 bis, fracción V de la Ley General de Sociedades Mercantiles);
+XII. Acuerdo de transformación (Artículo 228 de la Ley General de Sociedades Mercantiles);
+XIII. Decreto de exhibición cuyo plazo o monto no conste en las acciones (Artículo 119 de la Ley General de Sociedades Mercantiles);
+XIV. Acuerdo sobre distribución parcial (liquidación) (Artículo 243 de la Ley General de Sociedades Mercantiles);
+XV. Balance (liquidación) (Artículo 247 de la Ley General de Sociedades Mercantiles);
+XVI. Resultado del sorteo para designar acciones amortizadas (Artículo 136 de la Ley General de Sociedades Mercantiles);
+XVII. Reglamentos de los empresarios de transportes (Artículo 600 del Código de Comercio), y
+XVIII. Otras publicaciones previstas en las leyes mercantiles conforme al catálogo previsto en el sistema.
+Tratándose de la publicación señalada en la fracción I, correspondiente a la " Convocatoria de Asamblea General Constitutiva " , los socios fundadores deberán solicitar que se lleve a cabo a través de los Servidores Públicos de la Secretaría.
+Respecto de la publicación señalada en la fracción IV correspondiente a la " Convocatoria de Asamblea por orden de autoridad " se deberá realizar a través de un Servidor Público de la Secretaría, mediante la orden de autoridad competente.
+Décimo Séptima.- Las personas señaladas en la disposición Quinta, podrán llevar a cabo rectificaciones respecto de las publicaciones realizadas por éstos, en cualquier momento.
+Para lo anterior se deberá identificar la publicación respecto a la cual se realizará la corrección y adjuntar el archivo a publicar con la corrección correspondiente, de acuerdo con las características descritas en la disposición Décima Quinta, mismas que se almacenarán de forma cronológica.
+Será obligación de quien realiza la publicación, llevar a cabo su rectificación cuando detecte errores en la misma.
+Décimo Octava.- El PSM generará automáticamente un número de publicación y una boleta por cada operación realizada.
+Décimo Novena.- Corresponde a la Dirección General de Normat ividad Mercantil de la Secretarí a:
+I. Vigilar el cumplimiento de las disposiciones jurídicas y administrativas sobre el funcionamiento y operación del PSM;
+II. Administrar y operar el PSM, permitir la consulta y el acceso al sistema a las personas que así lo soliciten y cumplan con los requisitos establecidos en las presentes Disposiciones y demás normatividad aplicable;
+III. Capacitar y dar atención a consultas de los usuarios del PSM, así como difundir y promover su uso, y
+IV. Las demás que resulten necesarias para el debido funcionamiento del PSM.
+TRANSITORIO
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 15 de junio de 2015.
+México, D.F., a 4 de junio de 2015.- El Secretario de Economía, Ildefonso Guajardo Villarreal .- Rúbrica.

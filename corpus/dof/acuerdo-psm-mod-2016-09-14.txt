@@ -1,0 +1,48 @@
+DOF - Diario Oficial de la Federación
+
+-->
+
+-->
+
+DOF: 14/09/2016
+
+ACUERDO que modifica al diverso mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación ACUERDO que modifica al diverso mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación. Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía. Con fundamento en los artículos 34 fracciones XXXI y XXXIII de la Ley Orgánica de la Administración Pública Federal; 50 Bis del Código de Comercio; 166 fracción VI, 183, 184, 185, 186, 260, 264, 265, 268 y 272 de la Ley General de Sociedades Mercantiles; 5 fracción XVII del Reglamento Interior de la Secretaría de Economía, y
+CONSIDERANDO
+
+Q ue el Código de Comercio establece que las publicaciones que deban realizarse conforme a las leyes mercantiles se realizarán a través del sistema electrónico que para tal propósito establezca la Secretaría de Economía, y la Ley Orgánica de la Administración Pública Federal dispone que en el despacho de los asuntos de esta Secretaría se encuentra el determinar y operar el sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles.
+Que en cumplimiento a lo dispuesto en los instrumentos antes señalados se emitió el Acuerdo mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación, publicado en el Diario Oficial de la Federación el 12 de junio de 2015, el cual tiene por objeto establecer las disposiciones que determinan las características y requisitos bajo los cuales operará dicho Sistema, con el propósito de que las sociedades mercantiles realicen las publicaciones a que se refieren las leyes mercantiles.
+Que en la Ley General de Sociedades Mercantiles se establecen facultades y obligaciones a los comisarios para convocar a Asambleas ordinarias y extraordinarias de accionistas, en caso de omisión de los Administradores y en cualquier otro caso en que lo juzgue conveniente o a petición de los accionistas que representen por lo menos el treinta y tres por ciento del capital social, las cuales deberán hacerse públicas por medio de un aviso en el sistema electrónico establecido por la Secretaría de Economía.
+Que con objeto de poder dar cumplimiento a lo señalado en el considerando anterior, es necesario modificar el presente Acuerdo con el propósito de regular las funciones que los comisarios pueden llevar a cabo respecto de las publicaciones en el Sistema.
+Que mediante Decreto publicado en el Diario Oficial de la Federación el 14 de marzo de 2016, se reformó dicha Ley con el objeto de establecer la figura de Sociedad por Acciones Simplificada, sociedades que deberán, dentro de las obligaciones que les impone la Ley, inscribir o publicar en el sistema electrónico establecido por la Secretaría de Economía los contratos celebrados entre el accionista único y la sociedad, el aviso cuando se haya suscrito y pagado la totalidad del capital social, su convocatoria a Asamblea de Accionistas, así como el informe anual sobre la situación financiera de la sociedad.
+Que con el propósito de dar certeza jurídica a los usuarios del Sistema Electrónico de Publicaciones de Sociedades Mercantiles a fin de que se cumpla con las disposiciones de las leyes mercantiles que demandan su uso, se expide el siguiente:
+ACUERDO QUE MODIFICA AL DIVERSO MEDIANTE EL CUAL SE ESTABLECE EL SISTEMA
+ELECTRÓNICO DE PUBLICACIONES DE SOCIEDADES MERCANTILES Y LAS DISPOSICIONES PARA
+SU OPERACIÓN
+
+Único.- Se reforman las disposiciones Quinta, fracciones II y III, Décima Cuarta y Décima Sexta fracciones II, XVII y XVIII, y se adicionan una fracción IV a la disposición Quinta, un segundo y tercero párrafos a la disposición Décima Segunda y las fracciones XIX, XX y XXI a la disposición Décimo Sexta, del Acuerdo mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación, publicado en el Diario Oficial de la Federación el 12 de junio de 2015, para quedar como sigue:
+" Quinta.- ...
+I. ...
+II. Usuario Autorizado de la persona moral;
+III. Servidores Públicos de la Secretaría, y
+IV. Comisarios de la persona moral, bajo el supuesto establecido en la disposición Décima Segunda.
+Décima Segunda.- ...
+Los Comisarios a que se refiere la disposición Quinta fracción IV, ante la imposibilidad o negativa por parte del Representante Legal de la persona moral a la cual vigilan, de darlos de alta como Usuarios Autorizados,
+
+podrán realizar operaciones en el PSM exclusivamente para publicar o rectificar las Convocatorias para las Asambleas Generales correspondientes.
+Los Comisarios deberán adjuntar en el PSM el instrumento público por medio del cual se acredita su calidad de comisario, documento con características de tipo PDF y tamaño máximo de 1 Megabyte, aceptando dentro de los Términos y Condiciones aplicables que la misma no les ha sido revocada ni limitada.
+Décima Cuarta.- Las personas morales, a través de su Representante Legal, Usuario Autorizado o Comisario, llevarán a cabo las operaciones señaladas en las fracciones II y III de la disposición Cuarta.
+Décimo Sexta.- ...
+I. ...
+II. Convocatoria para Asambleas Generales y Asambleas de Accionistas (Artículos 186 y 268 de la Ley General de Sociedades Mercantiles);
+III. a XVI. ...
+XVII. Reglamentos de los empresarios de transportes (Artículo 600 del Código de Comercio);
+XVIII. Contratos celebrados entre el accionista único y la sociedad (Artículo 264 de la Ley General de Sociedades Mercantiles);
+XIX. Aviso cuando se haya suscrito y pagado la totalidad del capital social (Artículo 265 de la Ley General de Sociedades Mercantiles);
+XX. Informe anual sobre la situación financiera de la sociedad (Artículo 272 de la Ley General de Sociedades Mercantiles), y
+XXI. Otras publicaciones previstas en las disposiciones jurídicas aplicables conforme al catálogo previsto en el sistema.
+...
+... "
+TRANSITORIO
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 15 de septiembre de 2016.
+Ciudad de México, a 14 de septiembre de 2016.- El Secretario de Economía , Ildefonso Guajardo Villarreal .- Rúbrica.

@@ -1,0 +1,147 @@
+DOF - Diario Oficial de la Federación
+
+-->
+
+-->
+
+DOF: 14/09/2016
+
+REGLAS de Carácter General para el funcionamiento y operación del Sistema Electrónico de Sociedades por Acciones Simplificadas REGLAS de Carácter General para el funcionamiento y operación del Sistema Electrónico de Sociedades por Acciones Simplificadas. Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía. Con fundamento en los artículos 34 fracción XXXIII de la Ley Orgánica de la Administración Pública Federal; 260, 262, 263, 264 y 272 de la Ley General de Sociedades Mercantiles; 69-C y 69 C Bis de la Ley Federal de Procedimiento Administrativo; 5 fracción XVII del Reglamento Interior de la Secretaría de Economía, y
+CONSIDERANDO
+
+Que de acuerdo con el Plan Nacional de Desarrollo 2013-2016, y la Estrategia 4.7.2 Implementar una mejora regulatoria integral, se estableció como línea de acción fortalecer la convergencia de la Federación con los otros órdenes de gobierno, para impulsar una agenda común de mejora regulatoria que incluya políticas de revisión normativa, de simplificación y homologación nacional de trámites, así como medidas para facilitar la creación y escalamiento de empresas, fomentando el uso de herramientas electrónicas.
+Que los procedimientos de constitución de sociedades complejos, la reglamentación excesiva, las restricciones en el ámbito jurídico, financiero y cultural provocan un ambiente propicio para la informalidad.
+Que el 14 de marzo de 2016 fue publicado en el Diario Oficial de la Federación, el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Sociedades Mercantiles, mediante la cual se creó un nuevo régimen societario denominado Sociedad por Acciones Simplificada, para facilitar el proceso de constitución que enfrentan las micro y pequeñas empresas, así como simplificar su vida corporativa.
+Que las formas societarias simplificadas han permitido a las micro y pequeñas empresas aumentar su capacidad, al operar mediante esquemas fáciles y flexibles de administración y a través de una forma económica y asequible para separar los bienes personales de los que correspondan a sus negocios.
+Que de conformidad con lo dispuesto en el artículo 69 C Bis de la Ley Federal de Procedimiento Administrativo, a efecto de facilitar las gestiones de los interesados frente a las autoridades y evitar duplicidad de información en trámites y crear sinergias entre las diversas bases de datos, las dependencias y organismos descentralizados que estén vinculados en la realización de procedimientos administrativos relacionados con la apertura y operación de empresas, estarán obligados a coordinarse con la Secretaría de Economía, para el cumplimiento de dichos fines.
+Que la Secretaría de Economía tendrá la facultad de organizar, unificar e implementar el sistema informático que preverá expedientes electrónicos empresariales.
+Que de conformidad con lo establecido en los artículos 262 fracción II y 263 de la Ley General de Sociedades Mercantiles, la Secretaría de Economía debe establecer el sistema electrónico para las Sociedades por Acciones Simplificadas, así como la normatividad aplicable para su funcionamiento y operación, por lo que he tenido a bien expedir las siguientes:
+REGLAS DE CARÁCTER GENERAL PARA EL FUNCIONAMIENTO Y OPERACIÓN DEL SISTEMA
+ELECTRÓNICO DE SOCIEDADES POR ACCIONES SIMPLIFICADAS
+
+Primera.- Las presentes Reglas Generales tienen por objeto establecer el Sistema Electrónico de Sociedades por Acciones Simplificadas y las disposiciones que determinan las características y requisitos bajo los cuales operará.
+Segunda.- Para efectos de las presentes Reglas Generales se entenderá por:
+I. Accionista solicitante : persona física que dentro del Sistema realiza el trámite para constituir una SAS y que es titular de la autorización del uso de denominación social a que hace referencia el artículo 262 fracción III de la Ley;
+II. Autoridad Certificadora: las dependencias y entidades de la Administración Pública Federal a que hace referencia el artículo 23 de la Ley de Firma Electrónica Avanzada y que la Secretaría así lo reconozca a través del Sistema;
+III. Firma electrónica avanzada : el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, a través de certificados digitales vigentes que le haya emitido una Autoridad Certificadora;
+IV. Ley : Ley General de Sociedades Mercantiles;
+V. PSM: Sistema Electrónico en el que deberán realizarse las publicaciones que establezcan las
+
+disposiciones jurídicas aplicables;
+VI. SAS : Sociedad por Acciones Simplificada;
+VII. Secretaría: Secretaría de Economía, y
+VIII. Sistema: Sistema electrónico por medio del cual se realiza el procedimiento para la constitución, modificación y operación de las SAS, disponible en el portal www.gob.mx/tuempresa.
+Tercera.- El Sistema permitirá la captura, almacenamiento, custodia, consulta, reproducción, verificación, administración y transmisión de información relacionada con la constitución, modificación y operación de la SAS.
+Cuarta.- De conformidad con lo dispuesto en los artículos 263 y 264 de la Ley, en el Sistema no se exigirá a los accionistas l a presentación de datos cuando é stos puedan obtenerse de otra autoridad administrativa, lo anterior de acuerdo con lo establecido en el artículo 69-C de la Ley Federal de Procedimiento Administrativo.
+Quinta.- Derivado de la colaboración o coordinación que la Secretaría lleve a cabo con otras dependencias y entidades de la Administración Pública Federal, así como con otras entidades federativas y municipios que deseen incorporarse al Sistema en relación con la apertura y operación de empresas conforme a las disposiciones jurídicas aplicables, la Secretaría integrará en el Sistema el expediente electrónico empresarial con la información que resulte de dicha colaboración o coordinación.
+Sexta.- La información generada, enviada, recibida, almacenada o archivada en el Sistema, será considerada mensaje de datos en los términos del artículo 89 del Código de Comercio para todos los efectos jurídicos a que haya lugar.
+Séptima.- En términos de lo dispuesto en la definición de Firma Electrónica prevista en el artículo 89 del Código de Comercio, los documentos electrónicos y los mensajes de datos que cuenten con Firma Electrónica Avanzada, producirán los mismos efectos que los presentados con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
+Asimismo, de conformidad con lo establecido en los artículos 89, 89 Bis y 90 del Código de Comercio y para efectos de lo dispuesto en la regla Décima Primera, se entenderá que el Accionista solicitante actúa como emisor y, como destinatarios, las personas físicas que confirmen, a través del Sistema, su voluntad para participar como accionistas en la SAS.
+Lo anterior en el entendido de que los accionistas de la SAS, aceptan usar como sistema de información a que hace referencia el artículo 89 del Código de Comercio, el mecanismo que se encuentra programado automáticamente a través del Sistema.
+DE LAS OPERACIONES
+Octava.- Las operaciones que se podrán realizar en el Sistema son:
+I. Consulta;
+II. Constitución, modificación y operación de SAS, y
+III. Procedimientos administrativos relacionados con la apertura y operación de empresas: aquellos trámites que las dependencias y entidades de la Administración Pública Federal, entidades federativas o municipios incorporen al Sistema de conformidad con lo establecido en la regla Quinta.
+Novena.- Podrán registrar información en el Sistema las personas siguientes, mediante el uso de su Firma Electrónica Avanzada:
+I. Accionista solicitante;
+II. Representante Legal de la SAS;
+III. Fedatario Público, y
+IV. Servidores Públicos de la Secretaría cuyas atribuciones estén relacionadas con la operación del Sistema.
+Para registrar información se deberán leer y aceptar los Términos y Condiciones, así como las Políticas de Privacidad bajo los cuales opera el Sistema.
+DE LA CONSULTA
+Décima.- Cualquier persona podrá consultar en el Sistema la información general de las SAS constituidas.
+Para efectos de lo dispuesto en el párrafo anterior, se entiende por información general la siguiente:
+I. Folio de constitución;
+
+II. Denominación social;
+III. Datos de su Representante Legal, y
+IV. Fecha de constitución.
+DE LA CONSTITUCIÓN DE SAS
+Décima Primera.- La constitución de la SAS se realizará conforme al proceso que se describe a continuación:
+I. Por el Accionista solicitante
+a) Se deberá autenticar en el Sistema mediante el uso de su Firma Electrónica Avanzada.
+b) Registrará la información correspondiente a los Estatutos que se solicita en el Sistema en términos de lo establecido en el artículo 264 de la Ley, así como lo dispuesto en la fracción I, inciso c) apartado i, ii y iii de las presentes Reglas Generales.
+c) En el caso de que la SAS vaya a estar integrada por dos o más accionistas, el Accionista solicitante a través del Sistema, enviará un mensaje de datos a las personas físicas que deseen participar como accionistas para que cada una de ellas, con el uso de su Firma Electrónica Avanzada realice lo siguiente:
+i. Confirme su voluntad para participar como accionista en la SAS;
+ii. Verifique la exactitud y veracidad de sus datos, entre éstos: nombre, apellidos, domicilio fiscal, Registro Federal de Contribuyentes (RFC), nacionalidad, correo electrónico y Clave Única de Registro de Población (CURP), y
+iii. Manifieste si participa como socio, accionista o administra a una sociedad mercantil de las que hacen referencia las fracciones I a VII del artículo 1 de la Ley, y en su caso si se ubica en cualquiera de los siguientes supuestos:
+a. Impone, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o puede nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes;
+b. Mantiene la titularidad de derechos que le permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social, o
+c. Dirige, directa o indirectamente, la administración, la estrategia o las principales políticas, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
+d) Revisará el contrato social o acto constitutivo, según corresponda, a efecto de corroborar que la información sea correcta, y que se incluyan los términos y condiciones en que quisieron obligarse todos los accionistas.
+e) En el caso de que la SAS vaya a estar integrada por dos o más accionistas, a través del Sistema, enviará un mensaje de datos a los accionistas, con la propuesta de las condiciones estatutarias para que manifiesten su voluntad mediante el uso de su Firma Electrónica Avanzada en el Sistema.
+f) Firmará el contrato social o acto constitutivo de la sociedad, con el uso de su Firma Electrónica Avanzada.
+II. Por Fedatario Público
+a) Deberá cerciorarse que el accionista que haya solicitado la denominación de la SAS que pretende constituir, lo haya seleccionado como Fedatario Público de conformidad con lo establecido en las disposiciones jurídicas aplicables.
+b) Se autenticará en el Sistema mediante el uso de su Firma Electrónica Avanzada.
+c) Registrará en el Sistema la información que se solicita en términos de lo establecido en el artículo 264 de la Ley.
+d) A través del Sistema, enviará un mensaje de datos a toda persona física que desee participar como accionista en una SAS para que, con el uso de su Firma Electrónica Avanzada, realice lo siguiente:
+i. Confirme su voluntad para participar como accionista en la SAS;
+ii. Verifique la exactitud y verac idad de sus datos, entre é stos: nombre, apellidos, domicilio fiscal,
+
+Registro Federal de Contribuyentes (RFC), nacionalidad, correo electrónico y Clave Única de Registro de Población (CURP), y
+iii. Manifieste si participa como socio, accionista o administra a una sociedad mercantil de las que hace referencia las fracciones I a VII del artículo 1 de la Ley, y en su caso si se ubica en cualquiera de los siguientes supuestos:
+a. Impone, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o puede nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes;
+b. Mantiene la titularidad de derechos que le permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social, o
+c. Dirige, directa o indirectamente, la administración, la estrategia o las principales políticas, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
+e) Revisará el contrato social o acto constitutivo, según corresponda, a efecto de verificar que la información sea correcta, y que contemple las condiciones en que quisieron obligarse todos los accionistas.
+f) A través del Sistema, enviará un mensaje de datos al o los accionistas, con la propuesta de las condiciones estatutarias para que, de ser el caso, manifiesten su voluntad mediante el uso de su Firma Electrónica Avanzada en el Sistema.
+g) Firmará el contrato social, o acto constitutivo, según corresponda, con el uso de su Firma Electrónica Avanzada.
+Décima Segunda.- De conformidad con lo dispuesto en el artículo 80 del Código de Comercio y para efectos de lo dispuesto en la regla Décima Primera, se tendrá por perfeccionado el contrato social cuando lo firmen todos los accionistas y, tratándose del acto constitutivo, cuando lo firme el accionista único, en ambos casos, mediante el uso de su Firma Electrónica Avanzada.
+La información contenida en las cláusulas estatutarias podrá modificarse en cualquier momento y hasta antes de que algún accionista firme el contrato social o el acto constitutivo.
+Una vez iniciado el trámite para constituir una SAS, el Accionista solicitante o el Fedatario Público tendrán un plazo máximo de 15 días hábiles contados a partir del día en que se inició el trámite, para concluirlo.
+De cumplirse el plazo sin que quede perfeccionado el contrato social o el acto constitutivo, deberá iniciarse un nuevo trámite.
+Décima Tercera.- Cuando el contrato social o el acto constitutivo, según corresponda, cumpla con lo dispuesto en el artículo 264 de la Ley, la Secretaría de Economía lo inscribirá en el Registro Público de Comercio de conformidad con las disposiciones jurídicas aplicables, de lo contrario lo hará del conocimiento al Accionista solicitante o al Fedatario Público a través del Sistema.
+Décima Cuarta.- En cualquier momento, a través del Sistema, los accionistas podrán consultar y obtener la representación gráfica del contrato social o el acto constitutivo electrónico, según corresponda, así como la boleta de inscripción en el Registro Público de Comercio.
+La Secretaría conservará los archivos electrónicos correspondientes conforme a lo dispuesto en el artículo 15 de la Ley de Firma Electrónica Avanzada y la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
+Décima Quinta.- Para efectos de lo dispuesto en el primer párrafo del artículo 260 y en términos de lo previsto en la fracción IX del artículo 263 de la Ley, las sociedades mercantiles presentarán un aviso en el PSM sobre las inscripciones que realicen en el libro de registro de acciones.
+Dé cima Sexta.- Las modificaciones del contrato social, o del acto constitutivo, podrán realizarse en el Sistema, salvo aquellas a que hace referencia el segundo párrafo del artículo 269 de la Ley.
+Décima Séptima.- Para efectos de lo dispuesto en el segundo párrafo del artículo 260 de la Ley, la transformación a otro régimen societario deberá realizarse ante Fedatario Público en un plazo no mayor a 40 días hábiles contados a partir del día siguiente a la fecha en que la Secretaría, previo procedimiento administrativo conforme a la Ley Federal de Procedimiento Administrativo, publique en el PSM que los ingresos totales anuales de la SAS rebasaron el monto previsto en el artículo 260 de la Ley.
+La Secretaría podrá verificar el cumplimiento de lo dispuesto en el párrafo anterior, y en caso de no cumplir con la transformación señalada, previo procedimiento administrativo conforme a la Ley Federal de
+
+Procedimiento Administrativo, publicará en el PSM la situación de los accionistas de la SAS correspondiente respecto de su responsabilidad frente a terceros subsidiaria, solidaria e ilimitadamente, sin perjuicio de cualquier otra responsabilidad en que hubieren incurrido.
+Décima Octava.- Para efectos de lo establecido en el artículo 272 de la Ley, la información financiera que deberá publicar el administrador en el PSM es:
+DATOS DE IDENTIFICACIÓN
+RFC
+DENOMINACIÓN SOCIAL
+
+DATOS GENERALES
+EJERCICIO
+FECHA Y HORA DE PRESENTACIÓN
+
+ESTADO DE RESULTADOS
+INGRESOS NETOS
+GASTOS
+UTILIDAD BRUTA
+PÉRDIDA BRUTA
+UTILIDAD ANTES DE IMPUESTOS
+PÉRDIDA ANTES DE IMPUESTOS
+UTILIDAD NETA
+PÉRDIDA NETA
+
+ESTADO DE POSICIÓN FINANCIERA (BALANCE)
+SUMA ACTIVO
+SUMA PASIVO
+CAPITAL CONTABLE
+CAPITAL SOCIAL
+SUMA PASIVO MÁS CAPITAL CONTABLE
+
+El administrador de la SAS deberá publicar la información durante el mes de marzo siguiente al ejercicio inmediato anterior; si no se publican los informes sobre la situación financiera durante dos ejercicios consecutivos, la Secretaría, previo procedimiento administrativo conforme a la Ley Federal de Procedimiento Administrativo, determinará sobre la procedencia de la declaratoria de incumplimiento a que se refiere el segundo párrafo del artículo 272 de la Ley.
+Una vez emitida la resolución, la Secretaría publicará la declaratoria señalada en el párrafo anterior en el PSM.
+En caso de resolver procedente la declaratoria de incumplimiento, la SAS deberá iniciar el proceso de disolución conforme a lo dispuesto en el Capítulo X de la Ley, en un plazo no mayor a 40 días hábiles siguientes a la fecha de la publicación de la declaratoria de incumplimiento en el PSM.
+Décima Novena.- Corresponde a la Dirección General de Normatividad Mercantil de la Secretaría:
+I. Vigilar el cumplimiento de las disposiciones jurídicas y administrativas sobre el funcionamiento y operación del Sistema;
+II. Administrar y operar el Sistema, permitir la consulta y el acceso a la base de datos a personas que así lo soliciten y que cumplan con los requisitos establecidos en la Ley, las presentes Reglas Generales y demás normativa aplicable;
+III. Promover la celebración de instrumentos de colaboración con la finalidad de compartir o intercambiar información existente en el expediente electrónico empresarial con dependencias o entidades de la Administración Pública Federal, estatal o municipal;
+IV. Iniciar los procedimientos administrativos, practicar visitas de inspección y requerir información conforme a la Ley Federal de Procedimiento Administrativo, para verificar el cumplimiento de lo dispuesto en las reglas Décima Séptima y Décima Octava;
+V. Emitir las declaratorias de incumplimiento a que se refiere la regla Décima Octava;
+VI. Capacitar y dar atención a consultas sobre el Sistema, así como difundir y promover su uso;
+VII. Formular, fijar, establecer y coordinar las acciones y estrategias para la modernización continua del Sistema;
+VIII. Interpretar para efectos administrativos las presentes Reglas Generales, y
+
+IX. Las demás que resulten necesarias para el debido funcionamiento del Sistema.
+TRANSITORIO
+
+ÚNICO.- Las presentes Reglas Generales entrarán en vigor el 15 de septiembre de 2016.
+Ciudad de México, a 14 de septiembre de 2016.- El Secretario de Economía , Ildefonso Guajardo Villarreal .- Rúbrica.

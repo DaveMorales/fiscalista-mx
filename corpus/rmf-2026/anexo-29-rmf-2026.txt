@@ -1,0 +1,1129 @@
+   Viernes 9 de enero de 2026                    DIARIO OFICIAL
+
+
+                        PODER EJECUTIVO
+            SECRETARIA DE HACIENDA Y CREDITO PUBLICO
+ANEXOS 3, 7, 10, 11, 12, 13, 14, 16 y 29 de la Resolución Miscelánea Fiscal para 2026, publicada el 28 de diciembre
+de 2025.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Hacienda.- Secretaría de
+Hacienda y Crédito Público.- Servicio de Administración Tributaria.
+                    ANEXO 29 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2026
+                        Disposiciones complementarias para los PCCFDI y los CFDI
+    Para efectos del artículo 29 Bis, fracción I del CFF, en relación con la regla 1.4., fracción XXIX, se expide
+el presente Anexo conteniendo disposiciones normativas y especificaciones tecnológicas, así como
+validaciones adicionales a las establecidas en el Anexo 20 y sus complementos, las cuales deben observar de
+manera obligatoria los PCCFDI.
+                                                   Contenido
+   I.      Carta compromiso de confidencialidad, reserva y resguardo de información y datos.
+   II.     Características funcionales y servicios generales de la aplicación gratuita.
+   III.    Especificaciones para la descarga y consulta de la LCO, LRFC y L_CNE.
+   IV.     Validaciones adicionales en la certificación de facturas que se expidan al amparo del Decreto de
+           estímulos fiscales región fronteriza norte y del Decreto de estímulos fiscales región fronteriza sur.
+   V.      Reglas y lineamientos para operar en ambientes productivos.
+   VI.     Validaciones adicionales al Anexo 20 y complementos de factura electrónica.
+   VII.    Lineamientos de uso gráfico del logotipo para proveedores autorizados de certificación de CFDI y
+           requerimientos funcionales, servicios generales y niveles de servicio mínimos.
+   I. Carta compromiso de confidencialidad, reserva y resguardo de información y datos.
+   Formato de “Carta compromiso de confidencialidad, reserva y resguardo de información y datos”, que
+deben presentar debidamente firmada por el representante legal, las personas morales en la solicitud de
+autorización para operar como PCCFDI y PCGCFDISP, así como adjuntar al aviso de la solicitud de
+renovación de la autorización para operar como PCCFDI y PCGCFDISP.
+
+          Carta compromiso de confidencialidad, reserva y resguardo de información y datos.
+                                                                           Ciudad de México a __ de __ de 20__
+Servicio de Administración Tributaria.
+Administración General de Servicios al Contribuyente.
+Administración Central de Gestión de Servicios y
+Trámites con Medios Electrónicos.
+Presente:
+    En la Ciudad de_________________, siendo las _______horas del día _______de__________________
+de 20____, el C.____________________, quien cuenta con identificación oficial vigente, expedida por
+___________________________________ con número_____________, en nombre y representación legal de
+la persona moral _________________________, en lo sucesivo el OBLIGADO, así como los
+C.C.____________________,        ____________________         y  _________________________,           quienes
+manifiestan ser los contactos tecnológicos de la citada persona moral y que cuentan con identificación oficial
+vigente expedida por_______________________, _______________ y __________ con número
+_____________________________, __________________ y ______________, respectivamente, mismas
+que se anexan en copia simple como anexo del presente documento, en este acto suscriben la presente carta
+compromiso mediante la cual, en nombre y representación del OBLIGADO, aceptan formalmente las
+condiciones de resguardo, reserva, custodia y protección de la seguridad y confidencialidad de todo tipo de
+información y documentos propiedad del Servicio de Administración Tributaria (SAT) en lo particular, y/o de la
+Secretaría de Hacienda y Crédito Público (SHCP) o el Poder Ejecutivo en lo general, de la que tenga
+                                              DIARIO OFICIAL                      Viernes 9 de enero de 2026
+
+conocimiento, con motivo de la autorización para operar como proveedor de certificación de comprobantes
+fiscales digitales por Internet (CFDI), obtenida de conformidad con el artículo 29 Bis del Código Fiscal de la
+Federación y la regla 2.7.2.1., de la Resolución Miscelánea Fiscal vigente.
+Condiciones del SAT que el OBLIGADO se compromete a observar:
+   1.   Toda la información propiedad del SAT en particular, y/o de la SHCP o el Poder Ejecutivo en
+        general, que le será proporcionada y entregada al OBLIGADO, está considerada, según sea el caso,
+        como reservada, resguardada, privilegiada, y confidencial, en los términos de las leyes aplicables,
+        por lo que este último se obliga a protegerla, reservarla, resguardarla y no divulgarla, utilizándola
+        única y exclusivamente para llevar a cabo y cumplir con las actividades y obligaciones que
+        expresamente le confiere la autorización para operar como proveedor de certificación de CFDI
+        otorgada por el SAT, así como la normatividad aplicable a la misma.
+        De forma enunciativa, más no limitativa, en dicha información se incluye la referente a personas,
+        identidades de funcionarios, instalaciones, domicilios y documentos, pertenecientes al SAT y
+        propiedad del mismo, respectivamente.
+   2.   Es responsabilidad del OBLIGADO que el personal a su cargo que intervenga en cualquiera de las
+        actividades como proveedor de certificación de CFDI, reserve, proteja, guarde y custodie la
+        información y documentación propiedad del SAT, así como a restituirla cuando este último se lo
+        requiera.
+        En el entendido de que el OBLIGADO en ningún momento revelará o hará uso de la información
+        confidencial y reservada.
+   3.   A partir de que le sea otorgada la autorización para operar como proveedor de certificación de CFDI
+        y aún en los años posteriores a que pierda la referida autorización el OBLIGADO deberá
+        mantener la más estricta confidencialidad de toda la información y documentación que le sea
+        revelada por el SAT, por lo que bajo ninguna circunstancia divulgará dicha información y
+        documentación, ni la aprovechará para su beneficio o el de terceros, obligándose frente al SAT a
+        responder por los actos u omisiones de sus empleados y personal relacionado con la actividad como
+        proveedor de certificación de CFDI.
+        Por ningún motivo el OBLIGADO elaborará copias o reproducciones de la información que le sea
+        proporcionada en forma directa o indirecta.
+
+   4.   El SAT tendrá derecho de exigir en cualquier momento al OBLIGADO la devolución de la información
+        que le haya proporcionado de forma directa o indirecta, derivado de la actividad como proveedor de
+        certificación de CFDI, durante o después de la vigencia de la autorización obtenida.
+
+   5.   El OBLIGADO será responsable en caso de que la información sea divulgada por su personal en
+        activo o aquél que haya laborado y que hubiera tenido acceso a la información antes mencionada.
+
+   6.   Es responsabilidad del OBLIGADO, conservar y reservar toda la información entregada por el SAT,
+        de la misma manera en que ésta le sea entregada.
+
+        Asimismo, devolverá dicha información en la forma y términos en que el SAT se la solicite, por lo que
+        en ningún caso y bajo ningún título podrá retener la misma.
+
+   7.   El OBLIGADO no podrá transmitir o ceder en forma alguna los derechos y obligaciones que asume
+        en virtud de la presente carta y de la autorización obtenida para realizar la actividad como proveedor
+        de certificación de CFDI.
+
+   8.   El OBLIGADO asume que, en caso de incumplimiento de su parte respecto de cualquier compromiso
+        o condición especificada en esta carta, incluso a través de cualquier persona a la que le haya dado
+        acceso a la información pagará al SAT la totalidad de cualquier daño, perjuicio o menoscabo que le
+        llegare a causar con motivo de su incumplimiento, a través de la ejecución de la fianza otorgada para
+        obtener la autorización como proveedor de certificación de CFDI.
+   Viernes 9 de enero de 2026                   DIARIO OFICIAL
+
+   9.     Cualquier aviso o requerimiento que el OBLIGADO y el SAT deban hacerse con motivo de la
+          presente carta deberá ser enviado por escrito.
+
+   10.    El OBLIGADO no podrá usar la imagen, nombre, logo o ningún otro distintivo del SAT, para
+          propaganda, publicidad, notas, etiquetado de producto o para cualquier otro propósito, lo anterior de
+          manera enunciativa más no limitativa a menos de que cuente con el consentimiento expreso y por
+          escrito del SAT, por lo que asume cualquier responsabilidad por el manejo indebido que haga de esta
+          información o beneficios que obtenga de la misma, así como por los eventuales daños y perjuicios
+          que pudiese ocasionar al SAT en caso de no respetar esta prohibición, de conformidad con las
+          disposiciones de la materia que resulten aplicables.
+
+El C. ___________________________________, en su carácter de representante legal o apoderado de la
+persona moral ________________________________, así como los C.C. _________________________,
+____________________________________________________ y ______________________________,
+aceptan haber leído y comprendido las condiciones de resguardo, reserva, custodia, protección de la
+seguridad y confidencialidad de todo tipo de información y documentación de que tenga conocimiento, con
+motivo de su actividad como proveedor de certificación de CFDI, descritas en este documento y declaran bajo
+protesta de decir verdad, en nombre de la persona moral _______________________________, así como a
+título personal, que se comprometen a cumplirla en su totalidad, sin menoscabo de las demás obligaciones y
+prohibiciones establecidas en la normatividad fiscal aplicable, en el entendido de que el incumplimiento a
+cualquiera de estas será causa de la aplicación de las sanciones correspondientes e inclusive la revocación
+de la autorización para proveedor de certificación de CFDI.
+
+
+        __________________________________                       ________________________________
+(Nombre y firma del representante legal o apoderado          (Nombre y firma del contacto tecnológico de la
+                  de la empresa)                                            persona moral)
+    (Nombre o razón social de la persona moral)                                (Clave en el RFC)
+           (Correo electrónico de la empresa)                              (Número telefónico)
+                                                                           (Correo electrónico)
+   II. Características funcionales y servicios generales de la aplicación gratuita.
+   Para efectos del artículo 29 Bis del CFF, así como en la regla 2.7.2.8., fracción VII “Obligaciones de los
+proveedores de certificación de CFDI” y la ficha de trámite 139/CFF “Solicitud para obtener autorización para
+operar como proveedor de certificación de CFDI”, contenida en el Anexo 2, las características funcionales y
+servicios generales de la aplicación gratuita aquí contenidos, constituyen un requisito que deberán cumplir las
+personas morales que soliciten autorización para operar como PCCFDI y, en su caso, cumplir para continuar
+operando con su autorización como PCCFDI.
+    Así mismo, el PCCFDI debe demostrar que cumple con los requerimientos funcionales, servicios generales
+y niveles de servicios mínimos de la aplicación gratuita señalados en el presente documento.
+    Cabe señalar que los PCCFDI, adicionalmente deben cumplir con lo señalado en la regla 2.7.2.8., fracción
+IV antes citada, por lo que los requerimientos funcionales, servicios generales y niveles de servicios mínimos,
+pueden ser verificados y supervisados por parte del SAT, y de los terceros que para tales efectos habilite la
+autoridad fiscal.
+   II.1    Requerimientos funcionales mínimos:
+           1.    La aplicación gratuita deberá habilitar la emisión de CFDI.
+           2.    Dicha herramienta tendrá funcionalidad básica para el procesamiento ágil y eficiente del CFDI
+                 uno a uno, incluyendo el “Complemento para recepción de Pagos” y el complemento de
+                 “Timbre fiscal digital”, sin adendas.
+           3.    Deberá aceptar la carga del o los CSD del contribuyente, para el sellado de los comprobantes.
+           4.    Permitir precargar los datos fiscales del contribuyente emisor.
+                                                 DIARIO OFICIAL                      Viernes 9 de enero de 2026
+
+            5.    Generación del documento digital que ampara el comprobante fiscal para su validación y
+                  certificación, cumpliendo con la especificación técnica del Anexo 20 y en los documentos
+                  técnicos normativos.
+            6.    Validación y certificación (timbrado) del documento digital que ampara el comprobante fiscal.
+            7.    Entrega al contribuyente emisor del comprobante certificado o acuse de rechazo.
+            8.    Administrar el almacenamiento de los comprobantes.
+            9.    Permitir al emisor del comprobante consultar, guardar o imprimir los comprobantes durante los
+                  tres meses seguidos a partir de la certificación del comprobante.
+            10.   Enviar copia del CFDI al SAT de manera inmediata una vez realizada la certificación del
+                  documento digital que ampara el comprobante fiscal.
+   II.2     Servicios generales mínimos:
+    Los proveedores deberán proporcionar a los contribuyentes usuarios del servicio de la aplicación gratuita
+al menos los siguientes elementos:
+            1.    Firma de un acuerdo contractual con el contribuyente solicitante del servicio de
+                  consentimiento en lo relativo al manejo, seguridad y confidencialidad de la información que se
+                  proporcione al proveedor de certificación de CFDI.
+            2.    Publicación de un manual y un tutorial del usuario a través de Internet.
+            3.    Elaborar las preguntas frecuentes de su aplicación y publicarlas en su página de Internet.
+            4.    Deberán contar con un servicio de recepción y atención de quejas y solicitudes de soporte.
+   II.3     Niveles de servicio mínimos que serán establecidos entre el PCCFDI y los usuarios de su
+            aplicación gratuita.
+            1.    La aplicación gratuita, deberá estar en operación en un plazo máximo de setenta y dos horas,
+                  contadas a partir de la fecha del otorgamiento del certificado de sello digital del SAT.
+            2.    La aplicación con todos sus servicios deberá estar disponible 7X24/365 con una disponibilidad
+                  de 99.3% por ciento, donde el 0.7% por ciento es el periodo de tiempo máximo en que la
+                  aplicación podría no estar disponible por causas no planeadas e imputables al proveedor.
+            3.    Las solicitudes de soporte y quejas deberán ser atendidas por el proveedor en un plazo no
+                  mayor a dos horas y resueltas en un plazo no mayor a ocho horas.
+            4.    El tiempo de respuesta del servicio básico (gratuito) debe ser el mismo, que el del servicio
+                  avanzado (con costo), diferenciado sólo por las características funcionales adicionales que
+                  este último pudiese tener.
+     II.4    Consideraciones sobre la medición de la disponibilidad del servicio.
+    Disponibilidad del servicio se define como el porcentaje de tiempo, en que un sistema realiza la función
+que le es propia. Disponibilidad es la proporción de tiempo en que el sistema cumple con la función para la
+cual está dispuesto, en relación con el tiempo en que debería haber estado disponible, y se determina a partir
+de:
+   Tiempo Total (TT): Todos los tiempos son medidos en minutos enteros.
+    Tiempo Fuera de Operación (TFO) “Downtime”: Es el tiempo total en que no están disponibles los
+servicios que provee un sistema debido a fallas en el hardware y/o en el software. Lo anterior no incluye el
+tiempo durante el cual una unidad del sistema puede estar abajo, pero el servicio que provee el sistema se
+mantiene arriba. Este tiempo NO incluye el tiempo “planeado” fuera de operación ocasionado por
+mantenimientos permitidos.
+   Tiempo Planeado Fuera de Operación (TPFO): Es el tiempo en que el Servicio se encuentra fuera de
+operación, debido a ventanas de tiempo de mantenimiento planeadas y programadas de manera anticipada
+(como aplicaciones de parches, actualizaciones de firmware, aplicación de notas de servicio, mantenimientos
+preventivos, observando el cumplimiento de los requerimientos de Nivel de Servicio.
+   La disponibilidad será calculada de conformidad con la siguiente fórmula:
+   Viernes 9 de enero de 2026                  DIARIO OFICIAL
+
+    La medición de la disponibilidad de los servicios se realizará en forma diaria recolectando la información
+generada por los servicios, acumulando esta información hasta el cierre del mes, en donde se llevarán a cabo
+los cálculos finales del comportamiento de la disponibilidad de los servicios durante ese período y los datos
+serán cotejados contra los reportes y quejas presentadas por los usuarios del servicio.
+   III.    Especificaciones para la descarga y consulta de la LCO, LRFC y L_CNE.
+   III.1   Listado de Contribuyentes Obligados (LCO).
+    Con la finalidad de que los proveedores de certificación autorizados por el SAT realicen la validación,
+consistente en validar que el CSD del contribuyente emisor, con el que se selló el documento haya estado
+vigente en la fecha de su expedición y su estado haya sido Activo; en este apartado se da a conocer el
+procedimiento para la consulta y descarga de la LCO, a efecto de que se realice la validación del CSD del
+contribuyente emisor, así como en su caso, la validación de marcas adicionales que sean requeridas para la
+certificación del CFDI.
+   A.      Premisas.
+           1.   La LCO (Lista de Contribuyentes Obligados), es una lista en formato XML, firmada en
+                estándar PKCS#7 por el SAT y contiene la información de las claves de RFC que están
+                asociados a uno o algunos CSD conforme al régimen aplicable para la emisión de CFDI, y
+                contiene el estado del o de los certificados, es decir, si están Revocados, Caducos o Activos.
+           2.   Los certificados con estado de Revocado o Caduco permanecen en la lista durante los tres
+                siguientes días naturales a aquel en el que el certificado cambió de estado de Activo a
+                Revocado o Caduco, al cuarto día natural, los datos del certificado se eliminan de la LCO.
+           3.   Las claves de RFC contenidas en la LCO, también tienen marcas que identifican alguna
+                obligación o requerimiento para la inclusión de cierta información en los CFDI.
+           4.   La LCO se actualiza y publica todos los días.
+           5.   Deben ser consultadas todos los días por los proveedores de certificación.
+                Se debe consultar la LCO del día, o bien la lista inmediata anterior cuando no esté publicada
+                la del día en curso.
+           6.   El SAT publicará un archivo de control junto con los archivos de la LCO, en el cual se
+                identifique el número de archivos que comprende la lista, así como el hash de cada uno de
+                ellos para que los proveedores de certificación realicen su verificación.
+           7.   La lista deberá ser puesta en operación por parte de los proveedores de certificación dentro
+                de las dos horas posteriores a la que se publique en el contenedor por parte del SAT.
+   B.      Procedimiento.
+           1.   Los proveedores de certificación, accederán a la LCO autenticándose con su e.firma vigente,
+                a través de un servicio WEB que el SAT pondrá a su disposición de acuerdo a la
+                especificación técnica que el SAT les proporcione para tales efectos.
+           2.   En caso de que los proveedores de certificación realicen la renovación de su certificado de
+                e.firma, deberán notificarlo inmediatamente al SAT, a través del correo electrónico que la
+                ACGSTME proporcione directamente a los proveedores, indicando el número de serie del
+                nuevo certificado de e.firma, el cual deberá encontrarse con estatus Activo, para que pueda
+                continuar con el acceso al servicio WEB de descarga de la LCO con la nueva e.firma. Los
+                proveedores de certificación deberán realizar la renovación del certificado de e.firma, una vez
+                efectuada la descarga del archivo con la LCO del día en curso.
+           3.   Descargar el archivo con la LCO del día, o bien la lista inmediata anterior cuando la del día en
+                curso no esté publicada.
+           4.   Desencriptar el archivo con el CSD que le fue otorgado por el SAT.
+           5.   Actualizar los sistemas de validación con el insumo de la LCO.
+           6.   Realizar las validaciones referentes al estatus del CSD y lo referente a las marcas de
+                obligaciones vinculadas a las claves de RFC.
+                                         DIARIO OFICIAL                       Viernes 9 de enero de 2026
+
+     7.   Resguardar las listas de las descargas realizadas durante el plazo señalado en la regla
+          2.7.2.8., fracción XXIV.
+     Cabe señalar que el cliente para Azure Blob Storage, se notifica vía correo electrónico por única
+     ocasión a los proveedores de certificación, cuando obtienen la autorización a efecto de que
+     configuren sus servicios.
+C.   Integración de la LCO y aplicación de validaciones.
+     La LCO se integra de 6 datos o campos:
+     1.   RFC del emisor.- En este campo se ubica la clave de RFC del contribuyente y se expresa con
+          una cadena alfanumérica de 12 o 13 posiciones, este dato se utiliza para realizar la validación
+          del requisito legal contenido en el artículo 29-A, fracción II del CFF consistente en que el CFDI
+          y el CFDI que ampara retenciones e información de pagos, según corresponda, debe
+          contener el sello digital del contribuyente que lo expide, las validaciones al atributo
+          “Certificado”, del estándar tecnológico del comprobante fiscal contenido en el Anexo 20, así
+          como las validaciones contenidas en la regla 2.7.2.9.
+     2.   Estado del certificado (clave).- En este campo se indica el estado del CSD del contribuyente
+          emisor del CFDI (Activo, Revocado o Caduco), indicando según el caso, alguno de los
+          siguientes valores para identificar el estatus del certificado en cuestión.
+          a)   Valor A = Activo
+          b)   Valor R = Revocado
+          c)   Valor C = Caduco
+          Este dato se utiliza para realizar las validaciones al atributo “Certificado”, del estándar
+          tecnológico del comprobante fiscal contenido en el Anexo 20, consistente en que “El
+          certificado debe estar vigente a la fecha y hora de expedición del comprobante”, si el número
+          de CSD, no está contenido en la LCO asociado a una clave de RFC, el CFDI no se deberá
+          certificar.
+     3.   Número de serie del certificado de sello digital.- En este campo se establece el número de
+          CSD del contribuyente emisor del CFDI, que se integra de 20 caracteres numéricos.
+          Este dato se utiliza para realizar las validaciones al atributo “Certificado”, del estándar
+          tecnológico del comprobante fiscal contenido en el Anexo 20.
+     4.   Fecha inicial de la vigencia del certificado de sello digital.- En este campo se indica la fecha
+          inicial de la vigencia del CSD, con el siguiente formato:
+          AAAA-MM-DDTHH:MM:SS
+          Este dato debe utilizarse por los proveedores de certificación, para identificar si el CSD del
+          emisor del comprobante fiscal estuvo vigente en la fecha y hora en la que se expidió el
+          comprobante.
+     5.   Fecha final de la vigencia del certificado de sello digital.- En este campo se indica la fecha
+          final de la vigencia del CSD, con el siguiente formato:
+          AAAA-MM-DDTHH:MM:SS
+          Este dato debe utilizarse por los proveedores de certificación, para identificar si el CSD del
+          emisor del comprobante fiscal estuvo vigente en la fecha y hora en la que se expidió el
+          comprobante.
+     6.   Validez de obligaciones (clave).- En este campo se indica si el contribuyente emisor de la
+          factura cuenta o no con obligaciones fiscales para facturar, y se indica con un valor numérico
+          de 0, 1, 2, 3 y 4 que señalan lo siguiente:
+          a)   Valor 0 = No cuenta con obligaciones para facturar. No se le permite al contribuyente
+               emitir facturas, en este caso, el proveedor no puede certificar las facturas emitidas por
+               una clave de RFC que tenga valor “0” en la LCO.
+          b)   Valor 1 = Cuenta con obligaciones para facturar (puede facturar con IVA exento, tasa 0%
+               y 16%).
+   Viernes 9 de enero de 2026                   DIARIO OFICIAL
+
+                 c)    Valor 2 = Cuenta con obligaciones para facturar (puede facturar con IVA exento, tasa
+                       0%, 8% y 16% - Región fronteriza norte).
+                 d)    Valor 3 = Cuenta con obligaciones para facturar (puede facturar con IVA exento, tasa
+                       0%, 8% y 16% - Región fronteriza sur).
+                 e)    Valor 4 = Cuenta con obligaciones para facturar (puede facturar con IVA exento, tasa
+                       0%, 8% y 16% - Región fronteriza norte y sur).
+    A manera de ejemplo y sólo para fines didácticos, se muestra cómo se encuentra registrada la información
+en la LCO en el archivo XML:
+   <lco:Contribuyente RFC="AAA010101AA0">
+   <lco:Certificado       FechaInicio="2019-07-04T17:11:28"         FechaFinal="2023-07-04T17:11:28"
+noCertificado="30001000000400000008" EstatusCertificado="A" ValidezObligaciones="1"/>
+   </lco:Contribuyente>
+    Los datos de la clave de RFC y noCertificado, considerados en este ejemplo no pueden ser
+utilizados en ambiente de pruebas ni en producción.
+   D.       Validación de que el CSD del emisor del CFDI haya sido emitido por el SAT.
+    A efecto de realizar la validación contenida en el Anexo 20, fracción I, apartado F o fracción II, apartado E,
+al atributo “Certificado” del nodo comprobante o nodo Retenciones según corresponda, consistente en que “El
+certificado debe ser emitido por el Servicio de Administración Tributaria”, los proveedores de certificación,
+deben verificar la cadena de confianza de los certificados que utilizan los contribuyentes en la emisión de
+CFDI y asegurar que efectivamente hayan sido emitidos por el SAT, consultando la siguiente liga donde están
+publicados los certificados:
+   http://omawww.sat.gob.mx/tramitesyservicios/Paginas/certificado_sello_digital.htm
+   III.2    Lista de contribuyentes inscritos no cancelados en el Registro Federal de Contribuyentes
+            (LRFC).
+    El artículo 29 Bis del CFF señala que los CFDI deben cumplir con las especificaciones que en materia de
+informática determine el SAT, en este sentido, es obligación de los proveedores en el proceso de certificación
+de CFDI, que para que un comprobante sea certificado y se le asigne un folio, adicionalmente a lo que
+establece el artículo 29 Bis, fracción I del CFF, deben validar que el documento cumpla con la especificación
+técnica del Anexo 20.
+     El Anexo 20, establece las validaciones “Cuando no se utilice un RFC genérico, el RFC debe estar en la
+lista de RFC inscritos no cancelados en el SAT” para los atributos “Rfc” del nodo Receptor, y “RfcR” del nodo
+Retenciones: Receptor/Nacional, según corresponda.
+   Para cumplir con estas validaciones a cargo de los PCCFDI, el SAT pone a su disposición la LRFC.
+   A.      Premisas.
+           1.   Es un archivo en formato TXT que contiene las claves de RFC de los contribuyentes Inscritos
+                no Cancelados a los que se les puede facturar.
+           2.   Las claves de RFC CANCELADOS no están contenidas en la LRFC; por lo tanto, no pueden
+                recibir CFDI.
+           3.   La LRFC se publican todos los días de la semana y contiene información con corte al día
+                anterior al de la publicación, consta de un grupo de archivos.
+           4.   Deben ser consultadas todos los días por los proveedores de certificación.
+           5.   Se debe consultar la LRFC más reciente proporcionada por el SAT.
+           6.   La diferencia entre la LRFC y el servicio de validación de clave de RFC disponible en el Portal
+                del SAT, es que en la LRFC, si incluye la validación del estatus de la clave RFC, por lo que las
+                claves RFC con estatus de “Cancelado” no pasarán la validación realizada con la LRFC.
+           7.   Si una clave de RFC no pasa la validación y se obtiene una validación exitosa en el Portal del
+                SAT, se deberá:
+                                           DIARIO OFICIAL                       Viernes 9 de enero de 2026
+
+          a)   Verificar la fecha de inscripción en el RFC y
+          b)   Si es posterior al corte de información de la última LRFC publicada, es necesario esperar
+               a la siguiente publicación para que se actualice la información.
+     8.   El SAT publicará un archivo de control junto con los archivos de la LRFC, en el cual se
+          identifique el número de archivos que comprende la lista, así como el hash de cada uno de ellos
+          para que los proveedores de certificación realicen su verificación.
+     9.   La lista deberá ser puesta en operación por parte de los proveedores de certificación dentro de
+          las dos horas posteriores a la que se publique en el contenedor.
+B.   Procedimiento
+     1.   Los proveedores de certificación, accederán a la LRFC autenticándose con su e.firma, a través
+          de un servicio WEB que el SAT pondrá a su disposición de acuerdo a la especificación técnica
+          que el SAT les proporcione para tales efectos.
+     2.   En caso de que los proveedores de certificación realicen la renovación de su certificado de
+          e.firma, deberán notificarlo inmediatamente al SAT, a través del correo electrónico que la
+          ACGSTME proporcione directamente a los proveedores, indicando el número de serie del nuevo
+          certificado de e.firma, el cual deberá encontrarse con estatus Activo, para que pueda continuar
+          con el acceso al servicio WEB de descarga de la LRFC con la nueva e.firma. Los proveedores
+          de certificación deberán realizar la renovación del certificado de e.firma, una vez efectuada la
+          descarga del archivo con la LRFC del día en curso.
+     3.   Descargar el archivo con la LRFC del día, en su caso la más reciente cuando no se encuentre
+          publicada la del día en curso.
+     4.   Desencriptar el archivo con la clave del CSD que le fue otorgado por el SAT.
+     5.   Actualizar los sistemas de validación con el insumo de la LRFC.
+     6.   Realizar las validaciones que se realizan con el insumo de la LRFC.
+     7.   Resguardar las LRFC de las consultas realizadas durante el plazo señalado en la regla 2.7.2.8.,
+          fracción XXIV.
+     Cabe señalar que el cliente para Azure Blob Storage, se notifica vía correo electrónico por única
+     ocasión a los proveedores de certificación, cuando obtienen la autorización a efecto de que
+     configuren sus servicios.
+C.   Integración de la LRFC y aplicación de validaciones
+     La LRFC se integra con 6 datos o campos:
+     1.   RFC del contribuyente.- Este campo contiene la clave de RFC del receptor del CFDI y se integra
+          de una cadena alfanumérica de 12 o 13 posiciones, este dato se utiliza para realizar la
+          validación al atributo “Rfc” del nodo Receptor y “RfcR” del nodo Retenciones:Receptor/Nacional,
+          según corresponda, del estándar tecnológico de la factura Anexo 20, consistente en precisar la
+          Clave del RFC correspondiente al contribuyente receptor del comprobante.
+     2.   Marca de unidad adherida al Sistema Nacional de Coordinación Fiscal, este campo contiene
+          dos valores binarios conforme a lo siguiente:
+          a)   Valor 0 = El contribuyente no es una unidad adherida al Sistema Nacional de Coordinación
+               Fiscal.
+          b)   Valor 1 = El contribuyente es una unidad adherida del Sistema Nacional de Coordinación
+               Fiscal.
+               La información contenida en este campo se utiliza cuando se certifica un CFDI de tipo
+               nómina para realizar la validación consistente en: Si el atributo “Rfc” del emisor contiene la
+               marca de unidad adherida al Sistema Nacional de Coordinación Fiscal, con valor “1”, el
+               Elemento:EntidadSNCF del Complemento Nómina, debe existir y en otro caso, no debe
+               existir.
+     3.   Marca de Subcontratación. El emisor presta servicios de subcontratación de nómina (valor
+          binario).
+   Viernes 9 de enero de 2026                  DIARIO OFICIAL
+
+              a)    Marca binaria 0 = No se encuentra en el padrón de subcontratación.
+              b)    Marca binaria 1 = Se encuentra en el padrón de subcontratación.
+              La información contenida en este campo se utiliza cuando se certifica un CFDI de tipo nómina
+              para realizar la validación consistente en: Si el RFC se encuentra registrado en la LRFC con
+              marca de subcontrataciones debe registrar el nodo “Subcontratacion”.
+        4.    Nombre o razón social. Este campo se integra con el nombre o razón social del contribuyente
+              registrado en el padrón del RFC:
+              a)    Para Personas Físicas el formato es Nombre(s), Apellido Paterno y Apellido Materno.
+              b)    Para Personas Morales se incluye la denominación o razón social.
+              La información contenida en este campo se utiliza para realizar las validaciones que establece
+              el Anexo 20 para los atributos que el mismo se señalan.
+        5.    Código Postal. Este campo se integra por el Código Postal asociado al domicilio fiscal del
+              contribuyente contenido en las bases de datos del RFC. Se integra de una cadena numérica de
+              5 posiciones.
+        6.    Marca de Retencion. Esta marca corresponde a los contribuyentes emisores de CFDI de tipo
+              Ingreso que son sujetos de retención de impuestos, de acuerdo a lo siguiente:
+              a) Valor 0 = Contribuyente persona física y persona moral de cualquier régimen.
+              b) Valor 1 = Contribuyente persona física del RESICO no obligado a que le retengan ISR.
+              La información contenida en este campo se utiliza para realizar las validaciones que establece
+              el Anexo 20 para los atributos que el mismo se señalan.
+        El contenido de la LRFC se integrará de la siguiente manera:
+        RFC|SNCF|Subcontratacion|Nombre_Razon_Social|Codigo_Postal|Retencion
+        AAAA010101AA0|0|0|JOSE LUIS ESPINOZA FUENTES|09000|1
+        AAA010101AA0|0|0|LA MEJORA |74720|0
+        SAX970701NN0|0|0|SERVICIO ADMON TRIBUTARIA|06330|0
+    El tratamiento de la información contenida en la LCO y LRFC, y en general todos los insumos que el SAT
+proporciona a los proveedores de certificación para llevar a cabo las funciones relacionadas con la
+autorización, debe ser tratada como información confidencial, tal como lo señala la “Carta compromiso de
+confidencialidad, reserva y resguardo de información y datos”, incluida en la fracción I de este Anexo, y que
+los proveedores de certificación de CFDI están obligados a cumplir de conformidad con la regla 2.7.2.8.,
+fracciones VI y XV. El incumplimiento a la regla 2.7.2.8., fracción VI, es una causal de revocación en
+términos de la regla 2.7.2.12., fracción I, inciso b).
+   III.3 Listado de la Comisión Nacional de Energía (L_CNE)
+    El artículo 29-A, fracción V, inciso f) del CFF establece que los CFDI deberán contener el número de
+permiso vigente concedido por la Comisión Nacional de Energía. Por su parte, el 29 Bis del CFF señala que
+los CFDI deben cumplir con las especificaciones que en materia de informática determine el SAT; en ese
+sentido, con la finalidad de que los proveedores de certificación autorizados por el SAT realicen la validación
+consistente en que la información asociada a los números de permisos otorgados por la autoridad competente
+al contribuyente, así como las claves de productos que se registran en el Complemento Concepto para la
+facturación de Hidrocarburos y Petrolíferos corresponda con la información que se encuentra en el listado
+L_CNE asociado al RFC emisor; en este apartado se da a conocer el procedimiento para la consulta y
+descarga de la L_CNE, a efecto de que se realice la validación mencionada.
+   A.   Premisas.
+        1.    La L_CNE es una lista en formato TXT, firmada en estándar PKCS#7 por el SAT y contiene la
+              información de los números de permisos otorgados por la autoridad competente, el RFC del
+              titular del permiso y las claves de producto que deben registrarse en el CFDI en el
+              Complemento Concepto para la facturación de Hidrocarburos y Petrolíferos.
+                                           DIARIO OFICIAL                      Viernes 9 de enero de 2026
+
+     2.   La L_CNE, contiene únicamente números de permisos vigentes.
+     3.   La L_CNE se actualiza y publica todos los días.
+     4.   Debe ser consultada todos los días por los proveedores de certificación.
+          Se debe consultar la L_CNE del día, o bien la lista inmediata anterior cuando no esté publicada
+          la del día en curso.
+     5.   El SAT publicará un archivo de control junto con los archivos de la L_CNE, en el cual se
+          identifique el número de archivos que comprende la lista, así como el hash de cada uno de ellos
+          para que los proveedores de certificación realicen su verificación.
+     6.   La lista deberá ser puesta en operación por parte de los proveedores de certificación dentro de
+          las dos horas posteriores a la que se publique en el contenedor por parte del SAT.
+B.   Procedimiento.
+     1.   Los proveedores de certificación, accederán a la L_CNE autenticándose con su e.firma vigente,
+          a través de un servicio WEB que el SAT pondrá a su disposición de acuerdo con la
+          especificación técnica que el SAT les proporcione para tales efectos.
+     2.   Descargar el archivo con la L_CNE del día, o bien la lista inmediata anterior cuando la del día
+          en curso no esté publicada.
+     3.   Desencriptar el archivo con el CSD que le fue otorgado por el SAT.
+     4.   Actualizar los sistemas de validación con el insumo de la L_CNE.
+     5.   Resguardar las listas de las descargas realizadas durante el plazo señalado en la regla 2.7.2.8.,
+          fracción XXIV.
+C.   Integración de la L_CNE y aplicación de validaciones.
+     La L_CNE se integra de 3 campos:
+     1.   Número de permiso.- En este campo, se ubica el número de permiso otorgado por la autoridad
+          competente asociado un RFC, se expresa con una cadena alfanumérica de entre 15 y 35
+          posiciones, corresponde con la nomenclatura del número de permiso conforme al catálogo
+          catHidroYPetro:c_TipoPermiso del Complemento Concepto para la facturación de
+          Hidrocarburos y Petrolíferos, en caso de que contenga un número de permiso diferente, no se
+          deberá certificar el CFDI.
+     2.   RFC.- En este campo, se ubica la clave del RFC asociado al número de permiso otorgado por la
+          autoridad competente y debe ser igual al RFC del emisor, en caso de que contenga un RFC
+          diferente, no se deberá certificar el CFDI.
+     3.   Clave.- La información en este campo se utiliza para validar que la clave registrada en el
+          atributo Conceptos:Concepto:ClaveProdServ sea igual a la registrada en la L_CNE, la cual debe
+          estar asociada con el número de permiso otorgado por la autoridad competente y el RFC emisor
+          debe ser igual al registrado en la L_CNE, en caso de que contenga un RFC o una clave
+          diferente, no se deberá certificar el CFDI.
+     El contenido de la L_CNE se integrará de la siguiente manera:
+          NumeroPermiso|RFC|Clave
+          PL/(N° Consecutivo)/EXP/ES/(Año)|GARS7XXXXXXXX|00000000
+          PL/(N° Consecutivo)/EXP/ES/(Año)|GARS7XXXXXXXX|00000000
+          H/(N° Consecutivo)/COM/(Año)| SVF7XXXXXXXX|00000000
+          H/(N° Consecutivo)/COM/(Año)| SVF7XXXXXXXX|00000000
+          H/(N° Consecutivo)/COM/(Año)| SVF7XXXXXXXX|00000000
+          PL/(N° Consecutivo)/DIS/OM/(Año)|MPI0XXXXXXXX|00000000
+          PL/(N° Consecutivo)/EXP/ES/MM/(Año)|YHTSXXXXXXXX|00000000
+          PL/(N° Consecutivo)/EXP/ES/MM/(Año)|YHTSXXXXXXXX|00000000
+          PL/(N° Consecutivo)/EXP/ES/MM/(Año)|YHTSXXXXXXXX|00000000
+          CNE/PL/(N° Consecutivo)/EXP/ES/(Año)|OHAK7XXXXXXXX|00000000
+      Viernes 9 de enero de 2026                   DIARIO OFICIAL
+
+                 CNE/PL/(N° Consecutivo)/EXP/ES/(Año)|OHAK 7XXXXXXXX|00000000
+                 CNE/H/(N° Consecutivo)/COM/(Año)| XRE7XXXXXXXX|00000000
+                 CNE/H/(N° Consecutivo)/COM/(Año)| XRE7XXXXXXXX|00000000
+                 CNE/H/(N° Consecutivo)/COM/(Año)| XRE77XXXXXXXX|00000000
+                 CNE/PL/(N° Consecutivo)/DIS/OM/(Año)|JIX0XXXXXXXX|00000000
+                 CNE/PL/(N° Consecutivo)/EXP/ES/MM/(Año)|MLPTXXXXXXXX|00000000
+                 CNE/PL/(N° Consecutivo)/EXP/ES/MM/(Año)| MLPTXXXXXXXX|00000000
+                 CNE/PL/(N° Consecutivo)/EXP/ES/MM/(Año)| MLPTXXXXXXXX|00000000
+      IV.    Validaciones adicionales en la certificación de facturas que se expidan al amparo del
+             Decreto de estímulos fiscales región fronteriza norte y del Decreto de estímulos fiscales
+             región fronteriza sur.
+      IV.1   Validaciones en estructura base de CFDI.
+    En relación con lo señalado en el artículo 29 Bis, primer párrafo, fracción I del CFF, que se refiere a la
+obligación a cargo de los proveedores de certificación de validar el cumplimiento de los requisitos establecidos
+en el artículo 29-A del CFF, así como lo señalado en la regla 2.7.2.8., fracción IX, en la que se establece
+“Enviar al SAT los CFDI, al momento en que realicen su certificación, con las características y
+especificaciones técnicas que le proporcione el SAT”, y a efecto de cumplir con el “Decreto de estímulos
+fiscales región fronteriza norte”, y en el “Decreto de estímulos fiscales región fronteriza sur”, en este apartado,
+se señalan las validaciones adicionales, a cargo de los proveedores de certificación.
+    Por lo anterior, los proveedores de certificación, tratándose de facturas que se expidan por los actos o
+actividades que realicen los contribuyentes ubicados en región fronteriza norte, y en la región fronteriza sur,
+para efecto de aplicar la tasa del 8% del IVA, deberán validar adicionalmente a lo señalado en el Anexo 20
+(estándar tecnológico del CFDI), lo siguiente:
+Nodo Emisor                        Validación
+Rfc                                La clave de RFC contenida en la LCO tenga en el dato “validez de
+                                   obligaciones”, un valor de “2”, tratándose de facturas que se expidan por los
+                                   actos o actividades que realicen los contribuyentes ubicados en región
+                                   fronteriza norte.
+                                   La clave de RFC contenida en la LCO tenga en el dato “validez de
+                                   obligaciones”, un valor de “3”, tratándose de facturas que se expidan por los
+                                   actos o actividades que realicen los contribuyentes ubicados en región
+                                   fronteriza sur.
+                                   La clave de RFC contenida en la LCO tenga en el dato “validez de
+                                   obligaciones”, un valor de “4”, tratándose de facturas que se expidan por los
+                                   actos o actividades que realicen los contribuyentes ubicados en región
+                                   fronteriza norte y sur.
+                                   En caso contrario no se deberá certificar el documento.
+Nodo Concepto                      Validación
+ClavProdServ                       CFDI
+                                   La clave de productos y servicios del catálogo del Anexo 20, debe contener la
+                                   marca que identifica que puede aplicar una tasa de IVA de 0.080000, de lo
+                                   contrario no se deberá certificar el documento.
+                                   CFDI global
+                                   Cuando la clave del producto o servicio sea 01010101 “No existe en el
+                                   catálogo”, y el RFC del Receptor corresponde a la clave genérica en el RFC
+                                   (XAXX010101000), se permitirá el uso de una tasa de IVA Trasladado de
+                                   0.080000.
+Nodo Comprobante                   Validación
+LugarExpedicion                    La clave señalada en la columna “Estímulo Franja Fronteriza”, que corresponda
+                                   a la clave de código postal del catálogo c_CodigoPostal, debe contener el valor
+                                                 DIARIO OFICIAL                      Viernes 9 de enero de 2026
+
+                               “1” tratándose de facturas que se expidan por los actos o actividades que
+                               realicen los contribuyentes ubicados en la región fronteriza norte.
+                               La clave señalada en la columna “Estímulo Franja Fronteriza”, que corresponda
+                               a la clave de código postal del catálogo c_CodigoPostal debe contener el valor
+                               “2” tratándose de facturas que se expidan por los actos o actividades que
+                               realicen los contribuyentes ubicados en la región fronteriza sur.
+                               En caso contrario no se deberá certificar el documento.
+
+
+    Para el caso de que el CFDI que se pretenda certificar, no cumpla con las tres validaciones anteriores y
+que en el atributo TasaoCuota del Nodo Traslado la tasa del catálogo c_TasaOCuota del CFDI se tenga el
+valor fijo de 0.080000 para el tipo de Impuesto IVA, no se deberá certificar.
+   En el caso de que se registre información en el nodo “ACuentaTerceros”, se debe:
+   1.      Para el atributo “RfcACuentaTerceros”, aplicar las validaciones del nodo Emisor de este apartado.
+   2.      Validar en el nodo concepto al que pertenece este nodo hijo “ACuentaTerceros”, que la clave de
+           productos y servicios del catálogo del Anexo 20, contenga la marca que identifica que puede aplicar
+           una tasa de IVA del 0.080000.
+   3.      Para el atributo “DomicilioFiscalACuentaTerceros”, este dato debe estar contenido en el catálogo
+           c_CodigoPostal, y tener la marca en la columna “Estímulo Franja Fronteriza”, el valor “1” tratándose
+           de facturas que se expidan por los actos o actividades que realicen los contribuyentes ubicados en
+           región fronteriza norte, y el valor “2” tratándose de facturas que se expidan por los actos o
+           actividades que realicen los contribuyentes ubicados en región fronteriza sur.
+           Tratándose de operaciones realizadas en zona fronteriza norte y sur la validación del domicilio
+           fiscal del tercero, se deberá realizar directamente en el catálogo de códigos postales, conforme al
+           párrafo anterior, en sustitución a la validación establecida en el Anexo 20 referente a “El valor de
+           este atributo debe encontrarse en la lista de RFC inscritos no cancelados en el SAT y debe estar
+           asociado a la clave de RFC registrado en el atributo RfcACuentaTerceros del Nodo
+           ACuentaTerceros”.
+   Si     se        cumplen      las     validaciones      antes mencionadas,  en     el    atributo
+Concepto:Impuestos:Traslados:Traslado:TasaOCuota, la tasa de catálogo c_TasaOCuota del CFDI, deberá
+contener el valor fijo de 0.080000 para el tipo de impuesto IVA.
+   IV.2    Validaciones a complementos derivado de la aplicación del “Decreto de estímulos fiscales
+           región fronteriza norte y del Decreto de estímulos fiscales región fronteriza sur”
+    Para efectos del estímulo en materia de IVA contenido en el “Decreto de estímulos fiscales región
+fronteriza norte”, y en el “Decreto de estímulos fiscales región fronteriza sur”, las validaciones a realizar para:
+           1.   El “Complemento de Estado de Cuenta de Combustibles para Monederos Electrónicos
+                Autorizados por el SAT”, que se emite de conformidad con la regla 3.3.1.10., fracción III.
+           2.   El “Complemento Consumo de Combustibles”.
+   Son las que se detallan en los siguientes apartados:
+   A.      Complemento de Estado de Cuenta de Combustibles para Monederos Electrónicos
+           Autorizados por el SAT.
+           1.   Validar que la clave del atributo “Rfc” del Nodo: ConceptoEstadoDeCuentaCombustible (Rfc
+                del enajenante del combustible) del complemento, esté contenida en la LCO y tenga en el
+                atributo “validez de obligaciones”, el valor “2”, tratándose de facturas que se expidan por los
+                actos o actividades que realicen los contribuyentes ubicados en región fronteriza norte, el
+                valor “3” tratándose de facturas que se expidan por los actos o actividades que realicen los
+                contribuyentes ubicados en región fronteriza sur, y el valor “4” tratándose de facturas que se
+                expidan por los actos o actividades que realicen los contribuyentes ubicados en región
+                fronteriza sur y norte.
+           2.   Validar que en el atributo “TasaOCuota” del nodo Traslado del complemento, contenga el
+                valor fijo de 0.080000 para el tipo de impuesto IVA.
+   Viernes 9 de enero de 2026                 DIARIO OFICIAL
+
+          3.    En caso de que el IVA trasladado sea de una tasa diferente al 8%, deberá verificarse que el
+                contribuyente cuente con obligaciones válidas para facturar (“validez de obligaciones” = “1”,
+                “2”, “3” o “4”).
+                Se precisa que:
+                a)   Cuando el contribuyente tenga en el campo de validez de obligaciones de la LCO el
+                     valor “1”, el contribuyente podrá facturar operaciones exentas de IVA, tasas 0% y 16%
+                     de IVA.
+                b)   Cuando el contribuyente tenga el valor “2”, “3” o “4” en el dato Validez de obligaciones,
+                     el contribuyente podrá facturar operaciones exentas de IVA, tasas 0%, 8% y 16% de
+                     IVA.
+          Respecto de la certificación del CFDI con el “Complemento de Estado de Cuenta de Combustibles
+          para Monederos Electrónicos Autorizados por el SAT”, no deberán certificar CFDI donde la clave de
+          Rfc del enajenante del combustible tenga en el dato “validez de obligaciones” de la LCO una
+          marca “0”.
+   B.     Complemento Consumo de Combustibles.
+          1.    Que la clave del atributo “rfc” del Nodo: ConceptoConsumoDeCombustibles (Rfc del
+                enajenante del combustible) del complemento, esté contenida en la LCO y tenga en el atributo
+                “validez de obligaciones”, el valor “2” para facturas que se expidan en la región fronteriza
+                norte, el valor “3”, para facturas que se expidan en la región fronteriza sur, y el valor “4”
+                tratándose de facturas que se expidan por los actos o actividades que realicen los
+                contribuyentes ubicados en región fronteriza norte y sur.
+          2.    Que en el atributo “tasaOCuota” del Nodo Determinado del complemento, contenga el valor
+                fijo de 0.080000 para el tipo de impuesto IVA.
+   V.     Reglas y lineamientos para operar en ambientes productivos.
+   Este apartado tiene como propósito definir las reglas sobre las cuales se regirán las métricas de
+evaluación, control de la operación y la calidad del servicio de recepción de CFDI al SAT.
+          Los servicios que el SAT evalúa son los siguientes:
+          1.    Envío de CFDI al SAT
+          2.    Certificación de los CFDI
+   V.1    Políticas de aplicación general:
+          1.    Las mediciones las realiza el SAT de manera mensual.
+          2.    Las observaciones, reportes, solicitudes de revisión, o quejas que se reciban por parte del
+                contribuyente respecto del proceso de certificación para lo cual fue autorizado por el SAT, se
+                consideran elementos para la determinación de incumplimientos por parte del proveedor.
+          3.    En ambiente productivo, en ningún caso se podrán utilizar CSD de pruebas, los cuales son
+                otorgados por el SAT exclusivamente para realizar ello (pruebas).
+                Los CSD de pruebas, se encuentran publicados en el Portal del SAT en: Trámites y servicios /
+                Factura electrónica / Material adicional / Documentos relacionados, en la opción de
+                Certificados de prueba, o bien, en la siguiente URL:
+                https://www.sat.gob.mx/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blob
+                where=1461176399967&ssbinary=true
+                Adicionalmente, el SAT puede hacer entrega de CSD a los proveedores de certificación,
+                únicamente para hacer pruebas en la certificación.
+          4.    Tratándose de la evaluación del servicio de envío al SAT:
+                a.   El porcentaje mínimo de envíos exitosos, deberá ser mayor o igual al 99.9 %.
+                                               DIARIO OFICIAL                     Viernes 9 de enero de 2026
+
+                b.   La operación de envío de CFDI al SAT deberá ser dentro de la primera hora a partir de
+                     la certificación del comprobante.
+                c.   El envío de los comprobantes que se realice después de una hora a partir de la hora del
+                     timbrado, será recibido, pero marcado como extemporáneo y será una transacción
+                     contabilizada como operación exitosa.
+                d.   Tratándose de suspensiones por parte del SAT en los servicios de recepción, que
+                     deriven en el envío extemporáneo de los CFDI, estas transacciones no se contabilizarán
+                     para la medición de los indicadores de operación.
+                e.   En caso de que el comprobante no se encuentre en las bases de datos del SAT, se
+                     considerará como comprobante no enviado.
+                f.   En caso de que los datos (metadatos) enviados en el comprobante no sean válidos, se
+                     marcará como metadatos no válidos.
+                g.   En caso de que los datos (metadatos) enviados no correspondan al comprobante, se
+                     marcará como metadatos no correspondientes al CFDI.
+   V.2    Envío del CFDI al SAT
+          El Porcentaje de Envíos Exitosos (PEE): se calculará tomando en cuenta:
+          Envíos Exitosos (EE): Se considera una Transacción Exitosa o un Envío Exitoso, a la operación
+          de envío de un CFDI que realiza el proveedor al servicio de recepción del SAT y que obtenga un
+          acuse satisfactorio.
+          Transacciones Totales (TT): Que se refiere al total de las transacciones que el proveedor ha
+          enviado al SAT, sin importar tipo ni estado.
+    Por medio de este indicador, se conocerá la eficiencia del servicio del proveedor para el envío de los CFDI
+al SAT, expresado en puntos porcentuales.
+   La fórmula de cálculo queda como sigue:
+
+
+
+
+   V.3    Operaciones Extemporáneas.
+    Porcentaje de Transacciones Extemporáneas (PTE): Por medio de este indicador, se conocerá la
+eficiencia del servicio del proveedor para el envío de los CFDI al SAT.
+    Operación Extemporánea (OE): Se considera una Operación Extemporánea a la operación de envío de
+un CFDI que realiza un proveedor al servicio de recepción del SAT obteniendo un acuse satisfactorio, pero
+fuera del tiempo especificado.
+   Envíos Exitosos (EE): Se considera una Transacción Exitosa o un Envío Exitoso, a la operación de envío
+de un CFDI que realiza un proveedor al servicio de recepción del SAT y que obtenga un acuse satisfactorio.
+   La fórmula de cálculo queda como sigue:
+
+
+
+
+   V.4    Contingencias.
+   Se considera una contingencia a la eventualidad que interrumpa el servicio de recepción/cancelación del
+proveedor al contribuyente (incluida la aplicación gratuita) sin previa programación.
+   En caso de contingencia, el proveedor deberá informar al SAT mediante la mesa de servicios SAT.
+   V.5    Ventanas de Mantenimiento.
+    Se considera una ventana de mantenimiento a la interrupción programada en el servicio de la aplicación
+gratuita, en la certificación que autoriza el SAT y en el envío de CFDI al servicio de recepción de CFDI.
+    Para mejoras y mantenimiento continuo a la infraestructura y a la aplicación, el proveedor podrá planear y
+ejecutar ventanas de mantenimiento trimestrales, de máximo veinticuatro horas, lo anterior será notificado al
+SAT enviando el formato de notificación de ventanas de mantenimiento por correo electrónico con una
+anticipación de siete días.
+Viernes 9 de enero de 2026                  DIARIO OFICIAL
+
+V.6    Glosario de términos.
+       1.    Porcentaje de envíos exitosos (PEE): Se define como el indicador calculado a partir de
+             dividir el total de los envíos exitosos entre el total de transacciones, expresado en puntos
+             porcentuales.
+       2.    Envíos exitosos (EE): Se considera una Transacción exitosa o un Envío Exitoso, a la
+             operación de envío de un CFDI que realiza un proveedor al servicio de recepción del SAT y
+             que obtenga un acuse satisfactorio.
+       3.    Transacciones totales (TT): Es el total de las transacciones que el proveedor ha enviado al
+             SAT, sin importar tipo ni estado.
+       4.    Porcentaje de transacciones extemporáneas (PTE): Se define como el indicador calculado
+             a partir de dividir el total de las operaciones extemporáneas, entre el total de los envíos
+             exitosos, expresado en puntos porcentuales.
+       5.    Operación extemporánea (OE): Una operación extemporánea es la operación de envío de
+             un CFDI que realiza un proveedor al servicio de recepción del SAT obteniendo un acuse
+             satisfactorio, pero fuera del tiempo especificado.
+       6.    Contingencias: Se considera una contingencia a la eventualidad que interrumpa el servicio
+             de certificación, de recepción, o de cancelación del proveedor al contribuyente (incluida la
+             aplicación gratuita) sin previa programación.
+       7.    Ventanas de Mantenimiento: Se considera una ventana de mantenimiento al tiempo durante
+             el cual la aplicación gratuita, el servicio de certificación, de recepción, o de cancelación esté
+             sin servicio, esto es, no podrá responder a las solicitudes de los contribuyentes, se compone
+             de fecha de inicio, fecha de terminación, hora de inicio y hora de terminación.
+VI.    Validaciones adicionales al Anexo 20 y complementos de factura electrónica.
+VI.1   Validaciones adicionales al Anexo 20.
+       1. Atributo: TipoCambio.
+       Para efectos de la descripción del atributo TipoCambio del nodo comprobante, que señala que:
+       “Si el valor está fuera del porcentaje aplicable a la moneda tomado del catálogo c_Moneda, el
+       emisor debe obtener del PAC que vaya a timbrar el CFDI, de manera no automática, una clave de
+       confirmación para ratificar que el valor es correcto e integrar dicha clave en el atributo
+       Confirmacion.”
+       Al respecto, se precisa que la clave de confirmación estará vigente a partir de que el SAT publique
+       en su Portal de Internet los procedimientos para generar la clave de confirmación y para
+       parametrizar los montos y rangos máximos aplicables.
+       En cuanto a la validación adicional contenida en el último párrafo, del apartado F, de la fracción I,
+       del Anexo 20, para el atributo “TipoCambio” del nodo comprobante consistente en:
+       “Cuando el valor de este atributo se encuentre fuera de los límites establecidos, debe existir el
+       atributo Confirmacion.”
+       Se precisa que, en tanto el SAT publique en su Portal de Internet los procedimientos para generar
+       la clave de confirmación y para parametrizar los montos y rangos máximos aplicables, no será
+       aplicable la validación adicional contenida en el último párrafo, del apartado F., de la fracción I, del
+       Anexo 20, citada en el párrafo inmediato anterior y no será considerado como un incumplimiento
+       para el proveedor.
+       2. Atributo: “Total”.
+       La descripción del atributo “Total” del nodo comprobante se deberá entender de la siguiente
+       manera:
+       En cuanto a la validación consistente en: “Si el valor es superior al límite que establezca el SAT en
+       la RMF vigente, el emisor debe obtener del PAC que vaya a timbrar el CFDI, de manera no
+       automática, una clave de confirmación para ratificar que el valor es correcto e integrar dicha clave
+       en el atributo Confirmacion. No se permiten valores negativos”. Esta iniciará su vigencia a partir de
+       que el SAT publique en su Portal de Internet los procedimientos para generar la clave de
+       confirmación y para parametrizar los montos máximos aplicables.
+       3. Atributo: “Exportacion”.
+                                     DIARIO OFICIAL                      Viernes 9 de enero de 2026
+
+Para efectos de la segunda validación del atributo Exportacion donde señala que:
+“Si el atributo contiene el valor “02” debe existir el Complemento para Comercio Exterior”.
+Se precisa que, además se debe considerar lo siguiente:
+“Si el tributo contiene el valor “04” puede o no existir el Complemento para Comercio Exterior”.
+4. Atributo: “Confirmacion”.
+Se precisa que lo señalado en la descripción del atributo “Confirmacion”, del Anexo 20, referente a:
+“Atributo condicional para registrar la clave de confirmación que entregue el PAC para expedir el
+comprobante con importes grandes, con un tipo de cambio fuera del rango establecido o con
+ambos casos. Es requerido cuando se registra un tipo de cambio o un total fuera del rango
+establecido.”
+Su aplicación estará vigente cuando el SAT publique en su Portal de Internet los procedimientos
+para generar la clave de confirmación para parametrizar los montos y rangos máximos aplicables,
+por lo que este atributo no deberá registrarse hasta en tanto, se publiquen los referidos
+procedimientos para generar la clave de confirmación.
+Lo anterior también será aplicable a las validaciones adicionales contenidas en apartado F., de la
+fracción I., del Anexo 20, para el atributo “Confirmacion” consistentes en:
+“El Proveedor de Certificación debe verificar que el emisor le haya solicitado esta clave de
+confirmación y que no se utilice en más de un comprobante.
+El Proveedor de Certificación debe enviar una notificación al emisor de que ya se utilizó esta clave
+de confirmación.”
+Lo descrito aquí para el atributo “Confirmacion” del Anexo 20, no será considerado como un
+incumplimiento para el proveedor.
+5. Nodo: “InformacionGlobal”.
+5.1. Para efectos de la segunda validación del nodo InformacionGlobal donde señala que:
+“Si el valor registrado en el atributo Rfc del nodo Receptor contiene XAXX010101000 y el valor
+registrado en el atributo Nombre del nodo Receptor contiene el valor “PUBLICO EN GENERAL”
+este nodo debe existir”.
+Se precisa que conjuntamente se debe considerar lo siguiente:
+Que el valor registrado en el atributo TipoDeComprobante debe ser “I”.
+5.2. Año
+Para efectos de la validación del atributo Año donde señala que:
+“El valor de este atributo debe ser igual al año en curso o al año inmediato anterior. Para validar el
+año en curso o el año inmediato anterior se debe considerar el registrado en el atributo Fecha”.
+Se precisa que, en sustitución de la validación anterior se debe considerar lo siguiente:
+“El valor de este atributo debe ser igual al año en curso o uno de los años de hasta cinco ejercicios
+anteriores. Para validar el año de este atributo se debe considerar el registrado en el atributo
+Fecha”.
+6. Nodo: “ACuentaTerceros”.
+Se precisa que, cuando se trate de operaciones de expedición de CFDI por residentes en México
+que prestan servicios de intermediación entre terceros a oferentes de bienes y servicios residentes
+en el extranjero, se deben aplicar las siguientes validaciones:
+RfcACuentaTerceros:
+Si el valor registrado en este atributo es “EXT990101NI1”, el valor de este atributo no debe
+validarse en la lista l_LCO y el atributo NombreACuentaTerceros debe contener el valor
+“EXPEDICIÓN DE CFDI POR RESIDENTES EN MÉXICO QUE PRESTAN SERVICIOS DE
+INTERMEDIACIÓN ENTRE TERCEROS A OFERENTES DE BIENES Y SERVICIOS
+RESIDENTES EN EL EXTRANJERO”.
+Viernes 9 de enero de 2026                  DIARIO OFICIAL
+
+       NombreACuentaTerceros:
+       Si el valor registrado en este atributo es “EXPEDICIÓN DE CFDI POR RESIDENTES EN MÉXICO
+       QUE PRESTAN SERVICIOS DE INTERMEDIACIÓN ENTRE TERCEROS A OFERENTES DE
+       BIENES Y SERVICIOS RESIDENTES EN EL EXTRANJERO”, el valor de este atributo no debe
+       validarse en la lista de RFC inscritos no cancelados en el SAT y el atributo RfcACuentaTerceros
+       debe contener el valor “EXT990101NI1”.
+       RegimenFiscalACuentaTerceros:
+       Si el atributo RfcACuentaTerceros contiene el valor “EXT990101NI1” en este atributo se debe
+       registrar la clave “616”.
+       DomicilioFiscalACuentaTerceros:
+       Si el valor del atributo RfcACuentaTerceros es EXT990101NI1, este atributo debe ser igual al valor
+       del atributo LugarExpedicion y no debe validarse en la lista de RFC inscritos no cancelados en el
+       SAT.
+       7. Nodo “Retenciones”.
+       Se precisa que para lo señalado en el Nodo “Retenciones” a nivel concepto del CFDI de tipo
+       Ingreso de la fracción I del Anexo 20, referente a:
+       “Nodo opcional para asentar los impuestos retenidos aplicables al presente concepto”, deberán
+       validar adicionalmente a lo señalado en el Anexo 20 (estándar tecnológico del CFDI), lo siguiente:
+       1. Puede existir el nodo “Retenciones”, siempre que:
+           a) El RFC del emisor contenga la marca Retención con valor “1” en la lista de RFC inscritos no
+              cancelados en el SAT:
+           b) El atributo “RegimenFiscal” del Nodo Emisor, contenga el valor “626”.
+           c) El atributo “Rfc” del Nodo “Emisor” contenga una longitud de 13 posiciones (persona física) y
+              el atributo “Rfc” del Nodo “Receptor” contenga una longitud de 12 posiciones (persona
+              moral).
+           d) Y se deberá validar que a nivel del Concepto no contenga el valor 001 (ISR) en el atributo
+              del Impuesto del nodo hijo “Retencion” del elemento Retenciones.
+       2. Cuando el RFC del emisor contenga la marca Retención con valor “0” en la lista de RFC
+          inscritos no cancelados en el SAT, se deberá estar a las validaciones establecidas en el Anexo
+          20 para este nodo.
+       8. Atributo: “ObjetoImp”.
+       Para efectos de la segunda validación adicional del atributo “ObjetoImp”, del Anexo 20, donde
+       señala que:
+       “Si el valor registrado en este atributo es “02” el nodo hijo Impuestos del nodo Concepto debe
+       existir, en caso contrario no debe existir dicho nodo”.
+       Se precisa que, en sustitución de la validación anterior, se debe considerar la siguiente:
+       “Si el valor registrado en este atributo es “02” el nodo hijo Impuestos del nodo Concepto debe
+       existir.
+       Cuando este atributo contiene el valor “06” o “08", en el nodo hijo Impuestos del nodo Concepto no
+       deben existir los nodos hijo “Retencion” y “Traslado” con el atributo “Impuesto” con el valor “002” y/o
+       “003”; puede existir el nodo “Retenciones” con al menos un nodo hijo “Retencion” con el valor ”001”
+       en el atributo “Impuesto”.
+       Si este atributo contiene el valor “07", en el nodo hijo Impuestos del nodo Concepto no deben existir
+       los nodos hijo “Retencion” y “Traslado” con el atributo “Impuesto” con el valor “002”; puede existir el
+       nodo “Retenciones”, con al menos un nodo hijo “Retencion” con el valor “001” en el atributo
+       “Impuesto”; debe existir al menos el nodo hijo “Traslado” con el valor “003” en el atributo “Impuesto”
+       y puede existir el nodo hijo “Retencion” con el valor “003” en el atributo “Impuesto”.
+                                             DIARIO OFICIAL                      Viernes 9 de enero de 2026
+
+       En caso de que el valor registrado en este atributo es “01”, “03”, “04” o “05” el nodo hijo Impuestos
+       del nodo Concepto no debe existir”.
+       9. Atributo: “ClaveProdServ”.
+       Para efectos de las validaciones adicionales del atributo “ClaveProdServ”, del Anexo 20, donde
+       señala que:
+       Deben existir los complementos que señale el catálogo c_ClaveProdServ aplicables para este
+       atributo.
+       Deben existir los impuestos trasladados y/o retenidos que señale el catálogo c_ClaveProdServ
+       aplicables para este atributo.
+       Se precisa que, adicional se debe validar lo siguiente:
+       Cuando se registre cualquiera de las siguientes claves 15101505, 15101514 o 15101515 y el
+       TipoDeComprobante sea “I” o “E”, debe existir el ”Complemento Concepto para la facturación de
+       Hidrocarburos y Petrolíferos” por cada nodo Concepto registrado.
+VI.2   Validaciones adicionales a complementos.
+       1.    Complemento para recepción de Pagos (REP).
+             Para efectos de la regla 2.7.1.40., la cual indica el procedimiento para la emisión del CFDI, los
+             proveedores de certificación deben considerar que si sus clientes realizan operaciones en las
+             cuales emitan CFDI por operaciones de factoraje financiero con documentos distintos a CFDI,
+             podrán emitir el CFDI con “Complemento para recepción de Pagos” pudiendo registrar en el
+             campo “Descripcion” del CFDI al que se le incorpora el complemento, la descripción e
+             indicación de la operación por la cual se tiene u originó el derecho de cobro que se cede, así
+             como el número, nombre o identificador que tenga el documento o documentos que soportan,
+             prueban o identifican los derechos de cobro objeto de la operación de factoraje financiero.
+             Para efectos del párrafo anterior, los proveedores de certificación podrán no considerar la
+             regla de validación del campo “Descripcion” del “Elemento: Comprobante”, consistente en
+             “Para este atributo se debe registrar el valor “Pago”, contenida en el estándar del
+             complemento para recepción de pagos”.
+             Lo antes expuesto será aplicable a solicitud expresa de sus clientes, que indiquen que el
+             CFDI de pagos se emite bajo este escenario.
+       1.1   Atributo: “ObjetoImpDR”.
+             Para efectos de la segunda validación adicional del atributo “ObjetoImpDR”, del estándar del
+             Complemento para recepción de Pagos donde señala que:
+             “Si el valor registrado en este atributo es “02” el nodo hijo ImpuestosDR del nodo
+             DoctoRelacionado debe existir en caso contrario no debe existir dicho nodo”.
+             Se precisa que, en sustitución de la validación anterior, se debe considerar la siguiente:
+             “Si el valor registrado en este atributo es “02” el nodo hijo ImpuestosDR del nodo
+             DoctoRelacionado debe existir.
+             Cuando este atributo contiene el valor "06" o "08", en el nodo hijo ImpuestosDR del nodo
+             DoctoRelacionado no deben existir los nodos hijo “RetencionDR” y “TrasladoDR” con el
+             atributo “ImpuestoDR”, con el valor "002" y/o "003", puede existir el nodo “RetencionesDR”
+             con al menos un nodo hijo “RetencionDR” con el valor “001” en el atributo “ImpuestoDR”.
+             Si este atributo contiene el valor “07", en el nodo hijo ImpuestosDR del nodo
+             DoctoRelacionado no deben existir los nodos hijo RetencionDR y TrasladoDR con el atributo
+             ImpuestoDR con el valor "002"; puede existir el nodo “RetencionesDR”, con al menos un nodo
+             hijo “RetencionDR” con el valor "001" en el atributo “ImpuestoDR”; debe existir al menos el
+Viernes 9 de enero de 2026                     DIARIO OFICIAL
+
+              nodo hijo “TrasladoDR”, con el valor "003" en el atributo “ImpuestoDR” y puede existir el nodo
+              hijo “RetencionDR” con el valor "003" en el atributo “ImpuestoDR”.
+              En caso de que el valor registrado en este atributo sea "01", "03", "04" o "05", el nodo hijo
+              ImpuestosDR del nodo DoctoRelacionado, no debe existir”.
+       2.     Validaciones al CFDI de retenciones e información de pagos.
+              En caso de error en las facturas electrónicas de retenciones, éstas se deberán cancelar y
+              reexpedirse con los datos correctos, en caso de que la operación se haya llevado a cabo y
+              relacionar el UUID del CFDI que se cancela.
+       2.1. NomDenRazSocR:
+              Si el valor registrado en este atributo es “PÚBLICO EN GENERAL”, el valor
+              “XAXX010101000” debe existir en el atributo RfcR del nodo Receptor:Nacional.
+       2.2. DomicilioFiscalR:
+              Si el valor del atributo RfcR del nodo Receptor:Nacional es “XAXX010101000”, el valor de
+              este atributo debe ser igual al registrado en el atributo LugarExpRetenc.
+       2.3. Ejercicio:
+              Para efectos de la segunda validación del atributo Ejercicio donde señala que:
+                     “El valor de este atributo debe ser igual al año en curso o al año inmediato anterior.
+                     Para validar el año en curso o el año inmediato anterior se debe considerar el
+                     registrado en el atributo FechaExp”.
+              Se precisa que, en sustitución de la validación anterior se debe considerar lo siguiente:
+                     “El valor de este atributo debe ser igual al año en curso o uno de los años de hasta
+                     cinco ejercicios anteriores. Para validar el año de este atributo se debe considerar el
+                     registrado en el atributo FechaExp”.
+       2.4. CveRetenc:
+              Para efectos de la segunda validación del atributo CveRetenc donde señala que:
+                     “Si el valor registrado en este atributo es “25”, se debe registrar información en el
+                     atributo DescRetenc”.
+              Se precisa que, en sustitución de la validación anterior, se debe considerar lo siguiente:
+                     “Si el valor registrado en este atributo es “25”, se debe registrar información en el
+                     atributo DescRetenc, en caso contrario, es opcional registrar información en dicho
+                     atributo”.
+       3.     Validaciones a las revisiones de los CFDI y sus complementos que publique el SAT en
+              la página de Internet.
+              Los proveedores de certificación, están obligados a realizar las validaciones que se incluyan
+              en las revisiones de los CFDI y sus complementos que publique el SAT en su página de
+              Internet, así como observar lo establecido y dado a conocer a través de comunicados que el
+              SAT les realice.
+VI.3   Servicio de cancelación.
+       1.     Códigos de respuesta del servicio de cancelación para los CFDI.
+              Se enlistan, en sustitución de los publicados en el Anexo 20, los códigos de respuesta que
+              genera el servicio de cancelación para los CFDI.
+                             Códigos de respuesta del comprobante fiscal digital por Internet
+
+            EstatusUUID                             Descripción del código                           Código
+                                           DIARIO OFICIAL                      Viernes 9 de enero de 2026
+
+                    Solicitud de cancelación recibida                                              201
+
+                    UUID Previamente cancelado                                                     202
+
+                    UUID No encontrado o no corresponde al emisor                                  203
+
+                    UUID No aplicable para cancelación                                             204
+
+                    UUID No existe                                                                 205
+
+                    UUID No corresponde a un CFDI del Sector Primario                              206
+
+                    No se especificó el motivo de cancelación o el motivo no es válido             207
+
+                    Folio de sustitución inválido                                                  208
+
+                    Folio de sustitución no requerido                                              209
+
+                    La fecha de solicitud de cancelación es mayor a la fecha de declaración        210
+
+                    La fecha de solicitud de cancelación rebasa el límite para una factura
+                                                                                                   211
+                    global
+
+                    Relación no válida o inexistente                                               212
+
+                                              Descripción del código                             Código
+
+                    Usuario no válido                                                              300
+
+                    XML mal formado                                                                301
+
+                    Sello mal formado o inválido                                                   302
+
+                    Sello no corresponde al emisor                                                 303
+ EstatusPetición
+                    Certificado revocado o caduco                                                  304
+
+                    Certificado inválido                                                           305
+
+                    Uso de certificado de e.firma inválido                                         310
+
+                    Clave de motivo de cancelación no válida                                       311
+
+                    UUID no relacionado de acuerdo a la clave de motivo de cancelación             312
+
+
+2.     Códigos de respuesta del servicio de cancelación para el CFDI de retenciones e
+       información de pagos.
+       Se enlistan, en sustitución de los publicados en el Anexo 20, los códigos de respuesta que
+       genera el servicio de cancelación para los CFDI de retenciones e información de pagos.
+       Códigos de respuesta del comprobante fiscal digital por internet, que ampara retención e
+                                      información de pagos
+
+                                              Descripción del código                             Código
+                    Solicitud de cancelación recibida                                              1201
+     EstatusUUID    UUID Previamente cancelado                                                     1202
+                    No encontrado o no corresponde al emisor                                       1203
+                    UUID No existe                                                                 1205
+                                              Descripción del código                             Código
+                    Autenticación no válida                                                        1300
+                    XML mal formado                                                                1301
+ EstatusPetición    Estructura de folio no válida                                                  1302
+                    Estructura de RFC no válida                                                    1303
+                    Estructura de fecha no válida                                                  1304
+                    Certificado no corresponde al emisor                                           1305
+   Viernes 9 de enero de 2026                        DIARIO OFICIAL
+
+                                Certificado no vigente                                                  1306
+                                Uso de e.firma no permitido                                             1307
+                                Certificado revocado o caduco                                           1308
+                                Firma mal formada o inválida                                            1309
+                                Clave de motivo de cancelación no válida                                1310
+                                UUID no relacionado de acuerdo a la clave de motivo de cancelación      1311
+                                Folio Sustitución no válido                                             1312
+                                Solicitud fuera del plazo de la declaración anual                       1313
+                                Relación no válida                                                      1314
+
+   VII.   Lineamientos de uso gráfico del logotipo para proveedores autorizados de certificación de
+          CFDI y requerimientos funcionales, servicios generales y niveles de servicio mínimos.
+    En el presente apartado se señalan los lineamientos de uso gráfico del logotipo que otorga el SAT a los
+proveedores de certificación y los requerimientos funcionales, servicios generales y niveles de servicio
+mínimos para el uso de este logotipo, a efecto de que puedan cumplir con la obligación establecida en la regla
+2.7.2.8., fracción XXI consistente en publicar en su página de Internet el logotipo oficial que acredita la
+autorización para operar como proveedor de certificación proporcionado por el SAT.
+   VII.1. Logotipo para proveedores autorizados de certificación de CFDI.
+          A.    Lineamientos generales:
+                1.   El logotipo para proveedores autorizados de certificación de CFDI, que otorga el SAT,
+                     está registrado ante el Instituto Mexicano de la Propiedad Industrial.
+                2.   El Dictamen de Uso de Imagen y Diseño para Proveedor de Certificación de CFDI, se
+                     otorga a la empresa que obtuvo del SAT, autorización para operar como proveedor de
+                     certificación, y el logotipo incluirá el número de autorización asignado a dicho proveedor.
+                3.   El logotipo que otorga el SAT a los proveedores autorizados de certificación de CFDI,
+                     deberá ser implementado en la página de Internet del proveedor en un lugar visible, en
+                     la sección en la que informe de los servicios de certificación de facturación que ofrece.
+                4.   El logotipo autorizado por el SAT y otorgado a los proveedores autorizados de
+                     certificación de CFDI, es intransferible e inalienable y no podrá ser utilizado por terceros.
+                5.   El logotipo que otorga el SAT a los proveedores autorizados de certificación de CFDI, es
+                     de uso exclusivo para su incorporación en la página de Internet del proveedor de
+                     certificación autorizado y en su papelería. Queda prohibida cualquier utilización distinta a
+                     la señalada expresamente en este documento.
+                6.   Queda estrictamente prohibido la utilización del logotipo para fines personales o ajenos
+                     al proceso de certificación, contenido en el artículo 29 Bis, primer párrafo fracciones I, II
+                     y III del CFF, objeto por el cual, el SAT otorgó la autorización para operar como
+                     proveedor de certificación.
+                7.   Los proveedores de certificación que requieran usar el logotipo en medios distintos a su
+                     página electrónica y en la papelería de la empresa, como puede ser: medios
+                     publicitarios, incluyendo backs e invitaciones para eventos, así como en medios
+                     audiovisuales y digitales, deberán solicitar con una anticipación mínima de quince días
+                     hábiles el permiso a la ACGSTME del SAT, utilizando para ello la ficha de trámite
+                     141/CFF “Avisos del proveedor de certificación de CFDI” del Anexo 2, quien procederá a
+                     consultar y validar con la Administración Central de Comunicación Institucional. La
+                     solicitud de autorización de uso del logotipo en medios distintos a los señalados en este
+                     documento, deberá indicar el lugar, medio, formato y fecha en la cual se requiera usar.
+                8.   Una vez presentada la solicitud de autorización para el uso del logotipo en medios
+                     distintos a los señalados en este documento, a que se refiere el punto anterior, el
+                     proveedor deberá esperar a que se le notifique el Dictamen correspondiente, el cual
+                     señalará la autorización o no del uso de logotipo del SAT en medios distintos.
+                9.   El SAT se reserva el derecho de autorizar o denegar el uso del logotipo al proveedor en
+                     aplicaciones o en medios distintos a su página electrónica y en su papelería impresa o
+                                               DIARIO OFICIAL                      Viernes 9 de enero de 2026
+
+                     documentación digital relacionada con el objeto de la autorización que otorgó el SAT
+                     para operar como proveedor de certificación.
+          B.    Lineamientos de uso gráfico:
+                1.   El logotipo otorgado por el SAT, no se podrá cambiar, crear variación alguna, transcribir
+                     o deformar el logotipo ya sea, condensándolo o expandiéndolo.
+                2.   No se podrá utilizar un color de fondo distinto o, cambiar las proporciones del logotipo.
+                     El logotipo que otorga el SAT siempre deberá portarse con la resolución adecuada para
+                     que se proyecte con alta calidad y definición. Por ningún motivo se deberá utilizar un
+                     gráfico con baja resolución que demerite su imagen.
+          C.    Requerimientos funcionales, servicios generales y niveles de servicio mínimos.
+    Como parte de la implementación de la imagen distintiva (logotipo de los proveedores autorizados de
+certificación de CFDI), se emiten los presentes requerimientos funcionales, servicios generales y niveles de
+servicio mínimos, a efecto de garantizar el uso correcto de la imagen distintiva.
+          1.    La imagen distintiva (logotipo de los proveedores autorizados de certificación de CFDI),
+                deberá ser implementado durante los cinco días naturales siguientes a la fecha de recepción
+                del Dictamen de Uso de Imagen y Diseño para Proveedor de certificación de CFDI.
+          2.    El proveedor deberá publicar el logotipo oficial entregado por el SAT:
+                a.   En su página electrónica en Internet, en la sección en la que informe de los servicios de
+                     certificación de facturación que ofrece en un lugar visible.
+                b.   En su página de Internet, en la sección en la que brinde el servicio gratuito de
+                     facturación.
+                c.   En su página electrónica en Internet, en la sección en la que brinde el servicio de
+                     facturación con cobro, en caso de existir.
+          3.    En las secciones antes mencionadas, el proveedor de certificación, deberá incluir en el
+                logotipo oficial un hipervínculo directo a la página del SAT concretamente a la sección de
+                proveedores de certificación autorizados, en donde se ubica su información de contacto, para
+                la correcta identificación por parte de sus clientes y sus visitantes de sus sitios web.
+          4.    El proveedor, debe mantener visible el logotipo oficial que le fue entregado por el SAT
+                veinticuatro horas por siete días de la semana. El Logotipo debe estar visible todo el tiempo
+                que esté disponible el Portal de Internet.
+          5.    El proveedor conoce y acepta que el SAT podrá verificar la correcta implementación de la
+                imagen distintiva en su(s) portal(es) en Internet.
+          6.    El proveedor se hace sabedor y acepta que por ningún motivo el logotipo que le es entregado
+                podrá ser transferido a terceros en su nombre, y que no podrá ser utilizado en ningún otro sitio
+                de Internet, en caso de incumplimiento este se hará acreedor a la sanción establecida en la
+                normatividad aplicable.
+                                            Firma de conformidad
+                      (Nombre y firma del representante legal o apoderado del PCCFDI)
+                                _____________________________________
+                       Nombre o denominación del Proveedor de certificación de CFDI
+                             Ciudad de _____ a __ del mes de ______ de 20__.
+                                   (Indicar Lugar y fecha que corresponda)
+   Atentamente.
+   Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de
+Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio
+de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.-
+Rúbrica.
+

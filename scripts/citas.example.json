@@ -1,0 +1,15 @@
+[
+  {
+    "id": "resico-pm-ambito",
+    "documento": "lisr",
+    "articulo": "206",
+    "texto": "las personas morales residentes en México únicamente constituidas por personas físicas, cuyos ingresos totales en el ejercicio inmediato anterior no excedan de la cantidad de 35 millones de pesos",
+    "fecha_reforma": "2024-04-01"
+  },
+  {
+    "id": "resico-pm-flujo",
+    "documento": "lisr",
+    "articulo": "207",
+    "texto": "los ingresos se consideran acumulables en el momento en que sean efectivamente percibidos"
+  }
+]

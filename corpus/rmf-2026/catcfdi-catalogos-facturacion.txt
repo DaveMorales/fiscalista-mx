@@ -1,0 +1,352 @@
+Catálogos CFDI 4.0 (catCFDI.xls, Portal SAT). Hojas de facturación relevantes.
+Fuente: http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/catCFDI.xls
+
+
+===== c_FormaPago (28 filas) =====
+Catálogo de formas de pago.
+Versión | Revisión
+1 | 0
+c_FormaPago | Descripción | Bancarizado | Número de operación | RFC del Emisor de la cuenta ordenante | Cuenta Ordenante | Patrón para cuenta ordenante | RFC del Emisor Cuenta de Beneficiario | Cuenta de Benenficiario | Patrón para cuenta Beneficiaria | Tipo Cadena Pago | Nombre del Banco emisor de la cuenta ordenante en caso de extranjero | Fecha inicio de vigencia | Fecha fin de vigencia
+1 | Efectivo | No | Opcional | No | No | No | No | No | No | No | No | 42736
+2 | Cheque nominativo | Sí | Opcional | Opcional | Opcional | [0-9]{11}|[0-9]{18} | Opcional | Opcional | [0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50} | No | Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio. | 42736
+3 | Transferencia electrónica de fondos | Sí | Opcional | Opcional | Opcional | [0-9]{10}|[0-9]{16}|[0-9]{18} | Opcional | Opcional | [0-9]{10}|[0-9]{18} | Opcional | Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio. | 42736
+4 | Tarjeta de crédito | Sí | Opcional | Opcional | Opcional | [0-9]{16} | Opcional | Opcional | [0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50} | No | Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio. | 42736
+5 | Monedero electrónico | Sí | Opcional | Opcional | Opcional | [0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50} | Opcional | Opcional | [0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50} | No | No | 42736
+6 | Dinero electrónico | Sí | Opcional | Opcional | Opcional | [0-9]{10} | No | No | No | No | No | 42736
+8 | Vales de despensa | No | Opcional | No | No | No | No | No | No | No | No | 42736
+12 | Dación en pago | No | Opcional | No | No | No | No | No | No | No | No | 42736
+13 | Pago por subrogación | No | Opcional | No | No | No | No | No | No | No | No | 42736
+14 | Pago por consignación | No | Opcional | No | No | No | No | No | No | No | No | 42736
+15 | Condonación | No | Opcional | No | No | No | No | No | No | No | No | 42736
+17 | Compensación | No | Opcional | No | No | No | No | No | No | No | No | 42736
+23 | Novación | No | Opcional | No | No | No | No | No | No | No | No | 42736
+24 | Confusión | No | Opcional | No | No | No | No | No | No | No | No | 42736
+25 | Remisión de deuda | No | Opcional | No | No | No | No | No | No | No | No | 42736
+26 | Prescripción o caducidad | No | Opcional | No | No | No | No | No | No | No | No | 42736
+27 | A satisfacción del acreedor | No | Opcional | No | No | No | No | No | No | No | No | 42736
+28 | Tarjeta de débito | Sí | Opcional | Opcional | Opcional | [0-9]{16} | Opcional | Opcional | [0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50} | No | Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio. | 42736
+29 | Tarjeta de servicios | Sí | Opcional | Opcional | Opcional | [0-9]{15,16} | Opcional | Opcional | [0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50} | No | Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio. | 42736
+30 | Aplicación de anticipos | No | Opcional | No | No | No | No | No | No | No | No | 42960
+31 | Intermediario pagos | No | Opcional | No | No | No | No | No | No | No | No | 43074
+99 | Por definir | Opcional | Opcional | Opcional | Opcional | Opcional | Opcional | Opcional | Opcional | Opcional | Opcional | 42736
+
+===== c_MetodoPago (8 filas) =====
+Catálogo de Método de Pago.
+Versión | Revisión
+2 | 0
+c_MetodoPago | Descripción | Fecha inicio de vigencia | Fecha fin de vigencia
+PUE | Pago en una sola exhibición | 42736
+PPD | Pago en parcialidades o diferido | 42736
+
+===== c_UsoCFDI (28 filas) =====
+Catálogo de uso de comprobantes.
+Versión | Revisión
+1 | 1
+c_UsoCFDI | Descripción | Aplica para tipo persona |  | Fecha inicio de vigencia | Fecha fin de vigencia
+ |  | Física | Moral
+G01 | Adquisición de mercancias | Sí | Sí | 42736
+G02 | Devoluciones, descuentos o bonificaciones | Sí | Sí | 42736
+G03 | Gastos en general | Sí | Sí | 42736
+I01 | Construcciones | Sí | Sí | 42736
+I02 | Mobilario y equipo de oficina por inversiones | Sí | Sí | 42736
+I03 | Equipo de transporte | Sí | Sí | 42736
+I04 | Equipo de computo y accesorios | Sí | Sí | 42736
+I05 | Dados, troqueles, moldes, matrices y herramental | Sí | Sí | 42736
+I06 | Comunicaciones telefónicas | Sí | Sí | 42736
+I07 | Comunicaciones satelitales | Sí | Sí | 42736
+I08 | Otra maquinaria y equipo | Sí | Sí | 42736
+D01 | Honorarios médicos, dentales y gastos hospitalarios. | Sí | No | 42736
+D02 | Gastos médicos por incapacidad o discapacidad | Sí | No | 42736
+D03 | Gastos funerales. | Sí | No | 42736
+D04 | Donativos. | Sí | No | 42736
+D05 | Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación). | Sí | No | 42736
+D06 | Aportaciones voluntarias al SAR. | Sí | No | 42736
+D07 | Primas por seguros de gastos médicos. | Sí | No | 42736
+D08 | Gastos de transportación escolar obligatoria. | Sí | No | 42736
+D09 | Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones. | Sí | No | 42736
+D10 | Pagos por servicios educativos (colegiaturas) | Sí | No | 42736
+P01 | Por definir | Sí | Sí | 42825
+
+===== c_RegimenFiscal (28 filas) =====
+Catálogo de Régimen Fiscal.
+Versión | Revisión | Fecha de Publicación
+2 | 0 | 43976
+ |  | Aplica para tipo persona
+c_RegimenFiscal | Descripción | Física | Moral | Fecha de inicio de vigencia | Fecha de fin de vigencia
+601 | General de Ley Personas Morales | No | Sí | 42686
+603 | Personas Morales con Fines no Lucrativos | No | Sí | 42686
+605 | Sueldos y Salarios e Ingresos Asimilados a Salarios | Sí | No | 42686
+606 | Arrendamiento | Sí | No | 42686
+608 | Demás ingresos | Sí | No | 42686
+609 | Consolidación | No | Sí | 42686 | 43830
+610 | Residentes en el Extranjero sin Establecimiento Permanente en México | Sí | Sí | 42686
+611 | Ingresos por Dividendos (socios y accionistas) | Sí | No | 42686
+612 | Personas Físicas con Actividades Empresariales y Profesionales | Sí | No | 42686
+614 | Ingresos por intereses | Sí | No | 42686
+616 | Sin obligaciones fiscales | Sí | No | 42686
+620 | Sociedades Cooperativas de Producción que optan por diferir sus ingresos | No | Sí | 42686
+621 | Incorporación Fiscal | Sí | No | 42686
+622 | Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras | Sí | Sí | 42686
+623 | Opcional para Grupos de Sociedades | No | Sí | 42686
+624 | Coordinados | No | Sí | 42686
+628 | Hidrocarburos | No | Sí | 45292
+607 | Régimen de Enajenación o Adquisición de Bienes | No | Sí | 42686
+629 | De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales | Sí | No | 45292
+630 | Enajenación de acciones en bolsa de valores | Sí | No | 45292
+615 | Régimen de los ingresos por obtención de premios | Sí | No | 42686
+625 | Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas | Sí | No | 43983
+
+===== c_TipoDeComprobante (11 filas) =====
+Catálogo de tipos de comprobante.
+Versión | Revisión
+1.0 | 3
+c_TipoDeComprobante | Descripción | Valor máximo |  | Fecha inicio de vigencia | Fecha fin de vigencia
+I | Ingreso | 999999999999999999.999999 |  | 42945
+E | Egreso | 999999999999999999.999999 |  | 42945
+T | Traslado | 0 |  | 42736
+N | Nómina | NS | NdS | 42945
+ |  | 999999999999999999.999999 | 999999999999999999.999999 | 42945
+P | Pago | 999999999999999999.999999 |  | 42945
+
+===== c_TipoRelacion (14 filas) =====
+Catálogo de tipos de relación entre CFDI.
+Versión | Revisión
+2 | 0
+c_TipoRelacion | Descripción | Fecha inicio de vigencia | Fecha fin de vigencia
+1 | Nota de crédito de los documentos relacionados | 42736
+2 | Nota de débito de los documentos relacionados | 42736
+3 | Devolución de mercancía sobre facturas o traslados previos | 42736
+4 | Sustitución de los CFDI previos | 42736
+5 | Traslados de mercancias facturados previamente | 42736
+6 | Factura generada por los traslados previos | 42736
+7 | CFDI por aplicación de anticipo | 42960
+8 | Factura generada por pagos en parcialidades | 43074
+9 | Factura generada por pagos diferidos | 43074
+
+===== c_Impuesto (8 filas) =====
+Catálogo de impuestos.
+Fecha inicio de vigencia | Fecha fin de vigencia | Versión | Revisión
+42736 |  | 1 | 0
+c_Impuesto | Descripción | Retención | Traslado | Local o federal | Entidad en la que aplica
+1 | ISR | Si | No | Federal
+2 | IVA | Si | Si | Federal
+3 | IEPS | Si | Si | Federal
+
+===== c_TasaOCuota (25 filas) =====
+Catálogo de tasas o cuotas de impuestos.
+Versión | Revisión | Fecha de publicación
+2 | 2 | 44194
+Rango o Fijo | c_TasaOCuota |  | Impuesto | Factor | Traslado | Retención | Fecha inicio de vigencia | Fecha fin de vigencia
+ | Valor mínimo | Valor máximo
+Fijo |  | 0 | IVA | Tasa | Sí | No | 42736
+Fijo |  | 0.16 | IVA | Tasa | Sí | No | 42736
+Rango | 0 | 0.16 | IVA | Tasa | No | Sí | 42736
+Fijo |  | 0.08 | IVA Crédito aplicado del 50% | Tasa | Sí | No | 43472
+Fijo |  | 0.265 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.3 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.53 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.5 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 1.6 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.304 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.25 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.09 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.08 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.07 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.06 | IEPS | Tasa | Sí | Sí | 42736
+Fijo |  | 0.03 | IEPS | Tasa | Sí | No | 42736
+Fijo |  | 0 | IEPS | Tasa | Sí | No | 42736
+Rango | 0 | 55.0852 | IEPS | Cuota | Sí | Sí | 44197
+Rango | 0 | 0.35 | ISR | Tasa | No | Sí | 42736
+
+===== c_TipoFactor (8 filas) =====
+Catálogo tipo factor.
+Fecha inicio de vigencia | Fecha fin de vigencia | Versión | Revisión
+42736 |  | 1 | 0
+c_TipoFactor
+Tasa
+Cuota
+Exento
+
+===== c_Moneda (183 filas) =====
+Catálogo de moneda.
+Versión | Revisión
+1 | 1
+c_Moneda | Descripción | Decimales | Porcentaje variación | Fecha inicio de vigencia | Fecha fin de vigencia
+AED | Dirham de EAU | 2 | 5 | 14/08/2017
+AFN | Afghani | 2 | 5 | 14/08/2017
+ALL | Lek | 2 | 5 | 14/08/2017
+AMD | Dram armenio | 2 | 5 | 14/08/2017
+ANG | Florín antillano neerlandés | 2 | 5 | 14/08/2017
+AOA | Kwanza | 2 | 5 | 14/08/2017
+ARS | Peso Argentino | 2 | 5 | 14/08/2017
+AUD | Dólar Australiano | 2 | 5 | 14/08/2017
+AWG | Aruba Florin | 2 | 5 | 14/08/2017
+AZN | Azerbaijanian Manat | 2 | 5 | 14/08/2017
+BAM | Convertibles marca | 2 | 5 | 14/08/2017
+BBD | Dólar de Barbados | 2 | 5 | 14/08/2017
+BDT | Taka | 2 | 5 | 14/08/2017
+BGN | Lev búlgaro | 2 | 5 | 14/08/2017
+BHD | Dinar de Bahrein | 3 | 5 | 14/08/2017
+BIF | Burundi Franc | 0 | 5 | 14/08/2017
+BMD | Dólar de Bermudas | 2 | 5 | 14/08/2017
+BND | Dólar de Brunei | 2 | 5 | 14/08/2017
+BOB | Boliviano | 2 | 5 | 14/08/2017
+BOV | Mvdol | 2 | 5 | 14/08/2017
+BRL | Real brasileño | 2 | 5 | 14/08/2017
+BSD | Dólar de las Bahamas | 2 | 5 | 14/08/2017
+BTN | Ngultrum | 2 | 5 | 14/08/2017
+BWP | Pula | 2 | 5 | 14/08/2017
+BYR | Rublo bielorruso | 0 | 5 | 14/08/2017
+BZD | Dólar de Belice | 2 | 5 | 14/08/2017
+CAD | Dolar Canadiense | 2 | 5 | 14/08/2017
+CDF | Franco congoleño | 2 | 5 | 14/08/2017
+CHE | WIR Euro | 2 | 5 | 14/08/2017
+CHF | Franco Suizo | 2 | 5 | 14/08/2017
+CHW | Franc WIR | 2 | 5 | 14/08/2017
+CLF | Unidad de Fomento | 4 | 5 | 14/08/2017
+CLP | Peso chileno | 0 | 5 | 14/08/2017
+CNY | Yuan Renminbi | 2 | 5 | 14/08/2017
+COP | Peso Colombiano | 2 | 5 | 14/08/2017
+COU | Unidad de Valor real | 2 | 5 | 14/08/2017
+CRC | Colón costarricense | 2 | 5 | 14/08/2017
+CUC | Peso Convertible | 2 | 5 | 14/08/2017
+CUP | Peso Cubano | 2 | 5 | 14/08/2017
+CVE | Cabo Verde Escudo | 2 | 5 | 14/08/2017
+CZK | Corona checa | 2 | 5 | 14/08/2017
+DJF | Franco de Djibouti | 0 | 5 | 14/08/2017
+DKK | Corona danesa | 2 | 5 | 14/08/2017
+DOP | Peso Dominicano | 2 | 5 | 14/08/2017
+DZD | Dinar argelino | 2 | 5 | 14/08/2017
+EGP | Libra egipcia | 2 | 5 | 14/08/2017
+ERN | Nakfa | 2 | 5 | 14/08/2017
+ETB | Birr etíope | 2 | 5 | 14/08/2017
+EUR | Euro | 2 | 5 | 14/08/2017
+FJD | Dólar de Fiji | 2 | 5 | 14/08/2017
+FKP | Libra malvinense | 2 | 5 | 14/08/2017
+GBP | Libra Esterlina | 2 | 5 | 14/08/2017
+GEL | Lari | 2 | 5 | 14/08/2017
+GHS | Cedi de Ghana | 2 | 5 | 14/08/2017
+GIP | Libra de Gibraltar | 2 | 5 | 14/08/2017
+GMD | Dalasi | 2 | 5 | 14/08/2017
+GNF | Franco guineano | 0 | 5 | 14/08/2017
+GTQ | Quetzal | 2 | 5 | 14/08/2017
+GYD | Dólar guyanés | 2 | 5 | 14/08/2017
+HKD | Dolar De Hong Kong | 2 | 5 | 14/08/2017
+HNL | Lempira | 2 | 5 | 14/08/2017
+HRK | Kuna | 2 | 5 | 14/08/2017
+HTG | Gourde | 2 | 5 | 14/08/2017
+HUF | Florín | 2 | 5 | 14/08/2017
+IDR | Rupia | 2 | 5 | 14/08/2017
+ILS | Nuevo Shekel Israelí | 2 | 5 | 14/08/2017
+INR | Rupia india | 2 | 5 | 14/08/2017
+IQD | Dinar iraquí | 3 | 5 | 14/08/2017
+IRR | Rial iraní | 2 | 5 | 14/08/2017
+ISK | Corona islandesa | 0 | 5 | 14/08/2017
+JMD | Dólar Jamaiquino | 2 | 5 | 14/08/2017
+JOD | Dinar jordano | 3 | 5 | 14/08/2017
+JPY | Yen | 0 | 5 | 14/08/2017
+KES | Chelín keniano | 2 | 5 | 14/08/2017
+KGS | Som | 2 | 5 | 14/08/2017
+KHR | Riel | 2 | 5 | 14/08/2017
+KMF | Franco Comoro | 0 | 5 | 14/08/2017
+KPW | Corea del Norte ganó | 2 | 5 | 14/08/2017
+KRW | Won | 0 | 5 | 14/08/2017
+KWD | Dinar kuwaití | 3 | 5 | 14/08/2017
+KYD | Dólar de las Islas Caimán | 2 | 5 | 14/08/2017
+KZT | Tenge | 2 | 5 | 14/08/2017
+LAK | Kip | 2 | 5 | 14/08/2017
+LBP | Libra libanesa | 2 | 5 | 14/08/2017
+LKR | Rupia de Sri Lanka | 2 | 5 | 14/08/2017
+LRD | Dólar liberiano | 2 | 5 | 14/08/2017
+LSL | Loti | 2 | 5 | 14/08/2017
+LYD | Dinar libio | 3 | 5 | 14/08/2017
+MAD | Dirham marroquí | 2 | 5 | 14/08/2017
+MDL | Leu moldavo | 2 | 5 | 14/08/2017
+MGA | Ariary malgache | 2 | 5 | 14/08/2017
+MKD | Denar | 2 | 5 | 14/08/2017
+MMK | Kyat | 2 | 5 | 14/08/2017
+MNT | Tugrik | 2 | 5 | 14/08/2017
+MOP | Pataca | 2 | 5 | 14/08/2017
+MRO | Ouguiya | 2 | 5 | 14/08/2017
+MUR | Rupia de Mauricio | 2 | 5 | 14/08/2017
+MVR | Rupia | 2 | 5 | 14/08/2017
+MWK | Kwacha | 2 | 5 | 14/08/2017
+MXN | Peso Mexicano | 2 | 5 | 14/08/2017
+MXV | México Unidad de Inversión (UDI) | 2 | 5 | 14/08/2017
+MYR | Ringgit malayo | 2 | 5 | 14/08/2017
+MZN | Mozambique Metical | 2 | 5 | 14/08/2017
+NAD | Dólar de Namibia | 2 | 5 | 14/08/2017
+NGN | Naira | 2 | 5 | 14/08/2017
+NIO | Córdoba Oro | 2 | 5 | 14/08/2017
+NOK | Corona noruega | 2 | 5 | 14/08/2017
+NPR | Rupia nepalí | 2 | 5 | 14/08/2017
+NZD | Dólar de Nueva Zelanda | 2 | 5 | 14/08/2017
+OMR | Rial omaní | 3 | 5 | 14/08/2017
+PAB | Balboa | 2 | 5 | 14/08/2017
+PEN | Nuevo Sol | 2 | 5 | 14/08/2017
+PGK | Kina | 2 | 5 | 14/08/2017
+PHP | Peso filipino | 2 | 5 | 14/08/2017
+PKR | Rupia de Pakistán | 2 | 5 | 14/08/2017
+PLN | Zloty | 2 | 5 | 14/08/2017
+PYG | Guaraní | 0 | 5 | 14/08/2017
+QAR | Qatar Rial | 2 | 5 | 14/08/2017
+RON | Leu rumano | 2 | 5 | 14/08/2017
+RSD | Dinar serbio | 2 | 5 | 14/08/2017
+RUB | Rublo ruso | 2 | 5 | 14/08/2017
+RWF | Franco ruandés | 0 | 5 | 14/08/2017
+SAR | Riyal saudí | 2 | 5 | 14/08/2017
+SBD | Dólar de las Islas Salomón | 2 | 5 | 14/08/2017
+SCR | Rupia de Seychelles | 2 | 5 | 14/08/2017
+SDG | Libra sudanesa | 2 | 5 | 14/08/2017
+SEK | Corona sueca | 2 | 5 | 14/08/2017
+SGD | Dolar De Singapur | 2 | 5 | 14/08/2017
+SHP | Libra de Santa Helena | 2 | 5 | 14/08/2017
+SLL | Leona | 2 | 5 | 14/08/2017
+SOS | Chelín somalí | 2 | 5 | 14/08/2017
+SRD | Dólar de Suriname | 2 | 5 | 14/08/2017
+SSP | Libra sudanesa Sur | 2 | 5 | 14/08/2017
+STD | Dobra | 2 | 5 | 14/08/2017
+SVC | Colon El Salvador | 2 | 5 | 14/08/2017
+SYP | Libra Siria | 2 | 5 | 14/08/2017
+SZL | Lilangeni | 2 | 5 | 14/08/2017
+THB | Baht | 2 | 5 | 14/08/2017
+TJS | Somoni | 2 | 5 | 14/08/2017
+TMT | Turkmenistán nuevo manat | 2 | 5 | 14/08/2017
+TND | Dinar tunecino | 3 | 5 | 14/08/2017
+TOP | Pa'anga | 2 | 5 | 14/08/2017
+TRY | Lira turca | 2 | 5 | 14/08/2017
+TTD | Dólar de Trinidad y Tobago | 2 | 5 | 14/08/2017
+TWD | Nuevo dólar de Taiwán | 2 | 5 | 14/08/2017
+TZS | Shilling tanzano | 2 | 5 | 14/08/2017
+UAH | Hryvnia | 2 | 5 | 14/08/2017
+UGX | Shilling de Uganda | 0 | 5 | 14/08/2017
+USD | Dolar americano | 2 | 5 | 14/08/2017
+USN | Dólar estadounidense (día siguiente) | 2 | 5 | 14/08/2017
+UYI | Peso Uruguay en Unidades Indexadas (URUIURUI) | 0 | 5 | 14/08/2017
+UYU | Peso Uruguayo | 2 | 5 | 14/08/2017
+UZS | Uzbekistán Sum | 2 | 5 | 14/08/2017
+VEF | Bolívar | 2 | 5 | 14/08/2017
+VND | Dong | 0 | 5 | 14/08/2017
+VUV | Vatu | 0 | 5 | 14/08/2017
+WST | Tala | 2 | 5 | 14/08/2017
+XAF | Franco CFA BEAC | 0 | 5 | 14/08/2017
+XAG | Plata | 0 | 5 | 14/08/2017
+XAU | Oro | 0 | 5 | 14/08/2017
+XBA | Unidad de Mercados de Bonos Unidad Europea Composite (EURCO) | 0 | 5 | 14/08/2017
+XBB | Unidad Monetaria de Bonos de Mercados Unidad Europea (UEM-6) | 0 | 5 | 14/08/2017
+XBC | Mercados de Bonos Unidad Europea unidad de cuenta a 9 (UCE-9) | 0 | 5 | 14/08/2017
+XBD | Mercados de Bonos Unidad Europea unidad de cuenta a 17 (UCE-17) | 0 | 5 | 14/08/2017
+XCD | Dólar del Caribe Oriental | 2 | 5 | 14/08/2017
+XDR | DEG (Derechos Especiales de Giro) | 0 | 5 | 14/08/2017
+XOF | Franco CFA BCEAO | 0 | 5 | 14/08/2017
+XPD | Paladio | 0 | 5 | 14/08/2017
+XPF | Franco CFP | 0 | 5 | 14/08/2017
+XPT | Platino | 0 | 5 | 14/08/2017
+XSU | Sucre | 0 | 5 | 14/08/2017
+XTS | Códigos reservados específicamente para propósitos de prueba | 0 |  | 14/08/2017
+XUA | Unidad ADB de Cuenta | 0 | 5 | 14/08/2017
+XXX | Los códigos asignados para las transacciones en que intervenga ninguna moneda | 0 |  | 14/08/2017
+YER | Rial yemení | 2 | 5 | 14/08/2017
+ZAR | Rand | 2 | 5 | 14/08/2017
+ZMW | Kwacha zambiano | 2 | 5 | 14/08/2017
+ZWL | Zimbabwe Dólar | 2 | 5 | 14/08/2017

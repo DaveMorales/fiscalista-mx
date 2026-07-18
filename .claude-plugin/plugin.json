@@ -1,0 +1,14 @@
+{
+  "name": "fiscalista-mx",
+  "displayName": "Fiscalista MX",
+  "version": "0.3.0",
+  "description": "Protocolo de rigor para razonar temas fiscales, contables y corporativos mexicanos sobre fuentes primarias (LISR, LIVA, CFF, RMF, DOF). Se adapta al contribuyente leyendo su Constancia de Situación Fiscal: determina régimen (PF o PM) y obligaciones, y solo afirma lo que puede respaldar con texto vigente citado. Motor universal; conocimiento profundo por régimen (hoy: RESICO PM completo).",
+  "keywords": ["fiscal", "sat", "mexico", "isr", "iva", "cff", "resico", "cfdi", "contabilidad"],
+  "author": {
+    "name": "DaveMorales",
+    "url": "https://github.com/DaveMorales"
+  },
+  "homepage": "https://github.com/DaveMorales/fiscalista-mx",
+  "repository": "https://github.com/DaveMorales/fiscalista-mx",
+  "license": "MIT"
+}

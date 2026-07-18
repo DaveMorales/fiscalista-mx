@@ -1,0 +1,15 @@
+# El corpus (snapshot de fuentes primarias) SÍ se versiona — es parte del plugin.
+# Aquí solo va lo que no debe viajar.
+
+# Ruido de SO / editores
+.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Perfil real del contribuyente: NUNCA en el repo (vive en ${CLAUDE_PLUGIN_DATA}).
+# La plantilla perfil/contribuyente.example.md sí se versiona.
+perfil/contribuyente.md

@@ -1,0 +1,83 @@
+DOF - Diario Oficial de la Federación
+
+-->
+
+-->
+
+DOF: 24/07/2018
+
+ACUERDO que modifica al diverso mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación ACUERDO que modifica al diverso mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación. Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía. Con fundamento en los artículos 34 fracciones XXXI y XXXIII de la Ley Orgánica de la Administración Pública Federal; 50 Bis del Código de Comercio; 73, 129, 242 fracción V, 249 Bis y 249 Bis 1 de la Ley General de Sociedades Mercantiles; 5 fracción XVII del Reglamento Interior de la Secretaría de Economía, y
+CONSIDERAND O
+
+Que el Código de Comercio establece que las publicaciones que deban realizarse conforme a las leyes mercantiles se realizarán a través del sistema electrónico que para tal propósito establezca la Secretaría de Economía. Así mismo, en términos de la Ley Orgánica de la Administración Pública Federal le corresponde a la propia Dependencia determinar y operar dicho sistema.
+Que en cumplimiento a lo dispuesto en los instrumentos señalados se emitió el Acuerdo mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación, publicado en el Diario Oficial de la Federación el 12 de junio de 2015 y modificado mediante diverso dado a conocer en el mismo órgano informativo el 14 de septiembre de 2016, el cual tiene como propósito impulsar la competitividad y productividad, mediante la modernización y simplificación administrativa, favoreciendo a las empresas al reducir los costos que implicaban las publicaciones a las que están obligadas.
+Que el 24 de enero de 2018 se publicó en el Diario Oficial de la Federación el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Sociedades Mercantiles, por medio del cual se establece el procedimiento simplificado de disolución y liquidación en beneficio de dichas sociedades, las cuales deberán publicar la información requerida para tal fin en el Sistema Electrónico de Publicaciones de Sociedades Mercantiles.
+Que el 14 de junio de 2018 se publicó en el Diario Oficial de la Federación, el Decreto por el que se adicionan diversas disposiciones de la Ley General de Sociedades Mercantiles, con el objeto de establecer que las sociedades de responsabilidad limitada y las sociedades anónimas deberán publicar en el sistema electrónico establecido por la Secretaría de Economía, los avisos de inscripción correspondientes al libro especial de los socios y al registro de acciones, según corresponda.
+Que con el propósito de dar certeza jurídica a los usuarios del Sistema Electrónico de Publicaciones de Sociedades Mercantiles a fin de que se cumpla con las disposiciones de las leyes mercantiles que demandan su uso y, a efecto de dar cumplimiento al artículo 78 de la Ley General de Mejora Regulatoria, se fusionan 2 trámites identificados con las Homoclaves SE-09-009, " Notificación de domicilio de Corredor Público previo al inicio de funciones " , y SE-09-018, " Aviso previo a la Secretaría de Economía de cambio de domicilio del Corredor Público dentro de la misma plaza para la que fue habilitado " , eliminando e ste último trámite , así como el requisito de la copia certificada del acta de nacimiento del interesado en presentar el Examen de Aspirante a Corredor Público, previsto en el trámite con Homoclave SE-09-001-A, " Examen de aspirante a Corredor Público " , se expide el siguiente:
+ACUERDO QUE MODIFICA AL DIVERSO MEDIANTE EL CUAL SE ESTABLECE EL SISTEMA
+ELECTRÓNICO DE PUBLICACIONES DE SOCIEDADES MERCANTILES Y LAS DISPOSICIONES PARA
+SU OPERACIÓN
+
+Único.- Se reforman las disposiciones Segunda, Tercera, Quinta, Octava, Décima Primera primer párrafo, Décimo Sexta fracciones XV, XX y XXI y Décimo Séptima primer párrafo, y se adicionan un segundo párrafo a la disposición Décima Cuarta, un segundo párrafo a la disposición Décima Quinta, las fracciones XXII y XXIII a la disposición Décimo Sexta, las disposiciones Vigésima, Vigésima Primera, Vigésima Segunda y Vigésima Tercera del Acuerdo mediante el cual se establece el Sistema Electrónico de Publicaciones de Sociedades Mercantiles y las disposiciones para su operación, publicado en el Diario Oficial de la Federación el 12 de junio de 2015 y modificado mediante diverso publicado en el mismo órgano de difusión el 14 de septiembre de 2016, para quedar como sigue:
+" Segunda.- Para efectos del presente Acuerdo se entenderá por:
+I. Autoridad Certificadora: Las dependencias y entidades de la Administración Pública Federal que conforme a las disposiciones jurídicas aplicables tengan esta calidad y que la Secretaría de Economía así lo reconozca a través del Sistema Electrónico de Publicaciones de Sociedades Mercantiles;
+II. Balance final : Conforme a lo dispuesto en el artículo 249 Bis 1, fracción VI de la Ley General de Sociedades Mercantiles, la información que se solicite en el Sistema Electrónico de Publicaciones de Sociedades Mercantiles;
+
+III. Boleta: Documento con firma electrónica y sello digital de tiempo emitido por la Secretaría de Economía con una cadena única de datos, por medio de la cual se hace constar una operación en el sistema;
+IV. Captura: Crear o adjuntar información necesaria para realizar una operación en el Sistema Electrónico de Publicaciones de Sociedades Mercantiles;
+V. Firma electrónica avanzada: El conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa, a través de certificados digitales vigentes que le haya emitido una Autoridad Certificadora;
+VI. Sistema Electrónico de Publicaciones de Sociedades Mercantiles (PSM): Sistema electrónico en el que deberán realizarse las operaciones que establezcan las leyes mercantiles;
+VII. Secretaría: Secretaría de Economía, y
+VIII. Usuario Autorizado: Persona autorizada por el representante legal de una persona moral, en términos de lo dispuesto en el tercer párrafo del artículo 19 de la Ley Federal de Procedimiento Administrativo, para realizar operaciones a través del PSM.
+Tercera.- El PSM se proporcionará en línea a través del programa informático diseñado para tal fin, el cual permitirá la Captura, almacenamiento, custodia, consulta, reproducción, verificación, administración y transmisión de la información a que se refiere la disposición Décimo Sexta.
+Quinta.- Las siguientes personas podrán realizar operaciones en el PSM, mediante el uso de su firma electrónica avanzada:
+I. Representante legal de la persona moral;
+II. Usuario Autorizado;
+III. Servidores Públicos de la Secretaría;
+IV. Comisarios de la persona moral, bajo el supuesto establecido en la disposición Décima Segunda, y
+V. Los socios o accionistas conforme el procedimiento establecido en la disposición Vigésima Primera.
+Octava.- Las personas señaladas en la disposición Quinta que realicen operaciones en el PSM, son responsables de la existencia y veracidad de la información que se captura y publica, por lo que responderán por los daños y perjuicios que se pudieran originar.
+Décima Primera.- El representante legal de la persona moral, mediante su firma electrónica avanzada, podrá dar de alta a Usuarios Autorizados para que realicen operaciones a nombre de ésta, con excepción a las establecidas en las disposiciones Vigésima, Vigésima Primera y Vigésima Segunda, para lo cual deberá ingresar los datos que le solicite el PSM correspondientes al Usuario Autorizado, quien una vez habilitado podrá ingresar al PSM y realizar operaciones con su firma electrónica avanzada.
+...
+Décima Cuarta.- ...
+Para efectos de los artículos 73, 129, 249 Bis y 249 Bis 1 de la Ley General de Sociedades Mercantiles, las operaciones correspondientes observarán el procedimiento señalado en las disposiciones Vigésima, Vigésima Primera y Vigésima Segunda.
+Décima Quinta.- ...
+Para efectos de los artículos 73, 129, 249 Bis y 249 Bis 1 de la Ley General de Sociedades Mercantiles, las operaciones correspondientes observarán el procedimiento señalado en las disposiciones Vigésima, Vigésima Primera y Vigésima Segunda.
+Décimo Sexta.- ...
+I. a XIV. ...
+XV. Balance (liquidación) (Artículos 242 fracción V, 247 y 249 Bis 1 fracción VI de la Ley General de Sociedades Mercantiles);
+XVI. a XIX. ...
+XX. Informe anual sobre la situación financiera de la sociedad (Artículo 272 de la Ley General de Sociedades Mercantiles);
+XXI. Aviso de inscripción en el libro especial de los socios o en el registro de acciones con la estructura accionaria vigente (Artículos 73, 129 y 249 Bis fracción III de la Ley General de Sociedades
+
+Mercantiles);
+XXII. Acta de disolución y liquidación de sociedades mercantiles (Artículo 249 Bis 1 fracción I de la Ley General de Sociedades Mercantiles), y
+XXIII. Otras publicaciones previstas en las disposiciones jurídicas aplicables conforme al catálogo previsto en el sistema.
+...
+...
+Décimo Séptima.- Las personas señaladas en la disposición Quinta, podrán llevar a cabo rectificaciones respecto de las publicaciones realizadas por éstos, en cualquier momento, con excepción a las operaciones contenidas en las disposiciones Vigésima, Vigésima Primera y Vigésima Segunda.
+...
+...
+Vigésima.- El representante legal realizará la publicación referida en la disposición Décimo Sexta fracción XXI a través de la captura y firma de la información aplicable a la estructura accionaria vigente, incluyendo el folio de la sociedad en el Registro Público de Comercio, considerando lo siguiente:
+I. Si la sociedad desconoce o no cuenta con folio electrónico, el representante legal proporcionará la información que le requiera el PSM para obtenerlo en términos de los artículos 20, 21 y 22 del Código de Comercio y del artículo 2o . del Reglamento del Registro Público de Comercio, y
+II. Si la Secretaría detecta inconsistencias en la información del folio electrónico, el representante legal proporcionará la información que le requiera el PSM para las aclaraciones correspondientes en observancia al artículo 28 fracción III del Reglamento del Registro Público de Comercio.
+La captura de la información podrá llevarse a cabo directamente en la página web del PSM o bien adjuntando un archivo con caracteres separados por comas (.csv), conforme al manual de usuario.
+Vigésima Primera.- La publicación indicada en la disposición Décimo Sexta fracción XXII referente al artículo 249 Bis 1 fracción I de la Ley General de Sociedades Mercantiles, se desarrollará conforme al siguiente procedimiento:
+I. Realizada la publicación referida en la disposición Décimo Sexta fracción XXI, el PSM enviará un mensaje de datos al Representante Legal dentro de los 15 días hábiles siguientes, confirmando que la sociedad cumple con lo dispuesto en el artículo 249 Bis fracciones IV, V y VII de la Ley General de Sociedades Mercantiles, a partir de la verificación realizada por la autoridad fiscal;
+II. La autentificación de las personas morales se realizará conforme al procedimiento señalado en la disposición Décima del presente Acuerdo;
+III. Se realizará la captura de la información correspondiente al acuerdo de disolución y liquidación, incluyendo el nombre del liquidador;
+IV. El represente legal a través del PSM enviará un mensaje de datos a la totalidad de los socios o accionistas de la sociedad para que cada uno, con el uso de su firma electrónica avanzada, manifieste la voluntad de publicar el acta de disolución y liquidación toda vez que cumplen con lo dispuesto en el artículo 249 Bis de la Ley General de Sociedades Mercantiles.
+Los socios o accionistas tendrán un plazo máximo de 20 días hábiles, contados a partir del envío del mensaje de datos por el representante legal, para manifestar su voluntad, de lo contrario deberá realizarse nuevamente la captura y firma de la información aplicable a la estructura accionaria vigente, observándose lo dispuesto en la disposición Vigésima del presente Acuerdo.
+Para efectos de lo dispuesto en esta fracción se entenderá que el representante legal actúa como emisor y como destinatarios actúan los socios o accionistas, de conformidad con lo establecido en los artículos 89, 89 Bis y 90 del Código de Comercio, y
+V. Una vez publicada el acta de disolución y liquidación a través de la firma electrónica avanzada de la totalidad de los socios o accionistas de la sociedad, se enviará electrónicamente para su inscripción en el Registro Público de Comercio de conformidad con lo dispuesto en los artículos 249 Bis 1 fracción II de la Ley General de Sociedades Mercantiles.
+Vigésima Segunda.- La publicación del balance final, a que se refiere el artículo 249 Bis 1 fracción VI de la Ley General de Sociedades Mercantiles, se efectuará conforme al siguiente procedimiento:
+I. Se realizará la captura de la información, debiéndose firmar dentro de los 60 días hábiles siguientes
+
+a la fecha de publicación del acta de disolución y liquidación, y
+II. Una vez publicado el balance final, se enviará electrónicamente para la inscripción de la cancelación del folio de la sociedad en el Registro Público de Comercio de conformidad con lo dispuesto en los artículos 249 Bis 1 fracción VII de la Ley General de Sociedades Mercantiles notificando a la autoridad fiscal correspondiente.
+Vigésima Tercera.- Conforme a lo dispuesto en el artículo 69 C Bis de la Ley Federal de Procedimiento Administrativo y a fin de facilitar los actos administrativos, la Secretaría integrará al expediente electrónico empresarial la información que resulte de la colaboración o coordinación que se lleve a cabo con otras dependencias y entidades de la Administración Pública Federal, así como con otras entidades federativas y municipios que deseen incorporarse al PSM en relación con la disolución y liquidación de sociedades mercantiles " .
+TRANSITORIO S
+
+PRIMERO.- El presente Acuerdo entrará en vigor el 25 de julio de 2018, con excepción de lo dispuesto en el segundo transitorio.
+SEGUNDO.- Lo establecido en las disposiciones Décima Cuarta, Décima Quinta, Décimo Sexta fracción XXI, Vigésima y Vigésima Tercera que por virtud del presente Acuerdo se modifican, entrarán en vigor el 15 de diciembre de 2018, únicamente por lo que se requiere al cumplimiento de los artículos 73 y 129 de la Ley Gen eral de Sociedades Mercantiles.
+Ciudad de México, a 19 de julio de 2018.- El Secretario de Economía , Ildefonso Guajardo Villarreal .- Rúbrica.
