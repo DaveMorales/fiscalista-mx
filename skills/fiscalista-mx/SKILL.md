@@ -117,6 +117,13 @@ distingue tres cosas y **no inventa veredicto**:
   un humano.
 - ✅ **Verificada**: el texto está, dentro del artículo citado.
 
+**El ⚠️ NO es un pase — y aquí casi nunca hay un humano detrás.** El "→ lo revisa un humano" presupone un
+tercero que este protocolo **no garantiza que exista**. Cuando no lo hay, un ⚠️ se trata como 🚩 hasta
+cerrarlo: ubica bien el artículo, amplía el fragmento citado, corrige la fecha. Si de verdad no se puede
+cerrar, se **declara la incertidumbre en voz alta** al usuario (marca ⚠️ *No verificado* en la conclusión) y
+**no se apoya en esa cita nada que mueva dinero o dispare un plazo**. *"Salió advertencia pero seguí"* es
+exactamente el modo de fallo complaciente que este skill existe para matar.
+
 Esto vuelve la disciplina de cita en un candado que ninguna coherencia narrativa puede sortear. Ver
 `scripts/citas.example.json` para el formato. *(El validador confirma que la cita es real, no que la
 interpretación sea correcta — eso sigue siendo tuyo.)*
